@@ -23,7 +23,7 @@ native_hostileness = 6
 	owner = SPA
 	controller = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = tropical_wood
 }
@@ -32,5 +32,5 @@ native_hostileness = 6
 	controller = POR
 	add_core = POR
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 }

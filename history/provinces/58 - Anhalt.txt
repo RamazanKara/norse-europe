@@ -3,7 +3,7 @@
 owner = ANH
 controller = ANH 
 culture = saxon
-religion = catholic
+religion = new_norse
 capital = "Dessau"
 trade_goods = wool
 hre = yes

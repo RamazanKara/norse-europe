@@ -23,7 +23,7 @@ discovered_by = mesoamerican
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = gold
 	is_city = yes
 } # First discoveries of silver 

@@ -3,7 +3,7 @@
 owner = PIS
 controller = PIS
 culture = tuscan 
-religion = catholic 
+religion = new_norse 
 hre = yes 
 base_tax = 6 
 base_production = 6    

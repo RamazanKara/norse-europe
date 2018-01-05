@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN
 culture = croatian
-religion = catholic
+religion = new_norse
 capital = "Varazdin"
 trade_goods = cloth
 hre = no

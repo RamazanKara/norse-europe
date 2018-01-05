@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN 
 culture = transylvanian #Transylvanian Saxons
-religion = catholic
+religion = new_norse
 capital = "Sibiu"
 trade_goods = cloth
 estate = estate_burghers

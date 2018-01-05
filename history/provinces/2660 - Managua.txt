@@ -23,7 +23,7 @@ discovered_by = mesoamerican
 	add_core = SPA
 	capital = "Managua"
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = coffee
 } # First permanent Spanish settlement 

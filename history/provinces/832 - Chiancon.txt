@@ -22,7 +22,7 @@ discovered_by = MCA
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = gems
 }
 1810.7.20 = {

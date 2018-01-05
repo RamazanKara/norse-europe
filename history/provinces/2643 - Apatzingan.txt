@@ -25,7 +25,7 @@ discovered_by = mesoamerican
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	religion = catholic
+	religion = new_norse
 	unrest = 5
 } #Tangaxuan II is deposed and murdered.
 1541.1.1 = { culture = castillian } # growing aculturation

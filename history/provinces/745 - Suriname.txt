@@ -24,7 +24,7 @@ native_hostileness = 3
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = sugar
 } # Spain officially claimed the area, but paid little attention to the territory

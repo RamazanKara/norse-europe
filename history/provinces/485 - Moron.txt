@@ -21,7 +21,7 @@ discovered_by = ARW
 	add_core = CAS
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = coffee 
 } # Founded by Diego Velázquez
 1516.1.23 = {

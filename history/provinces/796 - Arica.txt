@@ -30,7 +30,7 @@ discovered_by = andean
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 }
 1810.9.18 = {	owner = CHL
 	controller = CHL

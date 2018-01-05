@@ -33,7 +33,7 @@ native_hostileness = 4
 	add_core = SPA
 	remove_core = NED
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Recaptured by Spain, expelled all Dutch
 1648.1.1 = {
 	owner = NED

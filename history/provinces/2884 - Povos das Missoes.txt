@@ -22,7 +22,7 @@ native_hostileness = 5
 
 1530.1.1 = { discovered_by = POR }
 
-1609.1.1 = { religion = catholic }
+1609.1.1 = { religion = new_norse }
 1756.2.1 = {
 	owner = POR
 	controller = POR

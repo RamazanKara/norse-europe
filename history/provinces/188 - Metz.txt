@@ -6,7 +6,7 @@ capital = "Metz"
 is_city = yes
 estate = estate_burghers
 culture = burgundian
-religion = catholic
+religion = new_norse
 hre = yes
 base_tax = 6 
 base_production = 6
@@ -25,8 +25,8 @@ discovered_by = ottoman
 1477.1.5 = { revolt = {} owner = LOR controller = LOR capital = "Metz" remove_core = BUR unrest = 0 } # Charles the Bold dies and Lorraine is re-established
 1551.4.10 = { controller = FRA } # Franco-Habsburg War (1551-1559): France takes Metz
 1559.4.3 = { owner = FRA add_core = FRA } # Peace of Cateau-Cambrésis, France annexes Metz
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1636.7.10 = { controller = HAB } # Habsburg forces ravage North Eastern France
 1636.10.24 = { controller = FRA } # Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
 1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde

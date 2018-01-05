@@ -26,7 +26,7 @@ discovered_by = MCA
 	add_core = SPA
 	capital = "Santa María la Antigua del Darién"
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = fur
 } # Spanish conquest, Francisco Pizarro

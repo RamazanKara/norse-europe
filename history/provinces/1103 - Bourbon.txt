@@ -20,7 +20,7 @@ native_hostileness = 0
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 } # Claimed by Jacques Pronis
 1669.1.1 = { capital = "Saint-Denis" }

@@ -20,7 +20,7 @@ native_hostileness = 5
 	add_core = POR
 	is_city = yes
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = grain
 } # Portugese colony
 1724.1.1 = {

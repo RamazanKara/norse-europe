@@ -24,7 +24,7 @@ discovered_by = north_american
 	add_core = FRA
 	trade_goods = cotton
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 } # French settlement, Fort Rosalie
 1763.2.10 = {

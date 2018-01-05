@@ -39,7 +39,7 @@ discovered_by = indian
 	controller = ETH
 	unrest = 8
 }
-1627.1.1 = { unrest = 9 } #Suseynos' proclamation of Roman Catholicism causes massive revolts
+1627.1.1 = { unrest = 9 } #Suseynos' proclamation of Roman new_norseism causes massive revolts
 1630.1.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 1 } controller = REB } #Sarsa Krestos rebels against Suseynos
 1631.1.1 = { revolt = {} controller = ETH unrest = 4 }
 1632.1.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 1 } controller = REB } #Malta Krestos rebels against Suseynos

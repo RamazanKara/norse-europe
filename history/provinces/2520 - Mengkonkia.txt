@@ -46,7 +46,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic 
+	religion = new_norse 
 } #French settlement at Vincennes (really across the river in Wea, represented here for gameplay reasons)
 1763.2.10 = {
 	discovered_by = GBR

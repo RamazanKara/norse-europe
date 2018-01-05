@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 culture = polish
-religion = catholic
+religion = new_norse
 capital = "Kraków"
 hre = no
 base_tax = 8

@@ -26,7 +26,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur 
 } #Fort a la Corne
 1763.2.10 = {

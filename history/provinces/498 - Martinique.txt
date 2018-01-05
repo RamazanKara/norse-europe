@@ -21,7 +21,7 @@ discovered_by = ARW
 	add_core = CAS
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = sugar
 } # Christopher Columbus
 1516.1.23 = {
@@ -37,7 +37,7 @@ discovered_by = ARW
 	remove_core = SPA
 	capital = "Saint-Pierre"
 	culture = cosmopolitan_french
-	religion = catholic 
+	religion = new_norse 
 } # Colonized by France
 1794.1.1 = { controller = GBR owner = GBR add_core = GBR } # Occupied by British forces
 1802.3.25 = { controller = FRA owner = FRA }# Treaty of Amiens, returned to France

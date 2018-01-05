@@ -24,7 +24,7 @@ discovered_by = ARW
 	controller = FRA
 	add_core = FRA
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 	trade_goods = sugar 
 } # Most of the Caribs were wiped out by the French

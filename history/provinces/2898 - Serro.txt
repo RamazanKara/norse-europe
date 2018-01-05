@@ -23,7 +23,7 @@ native_hostileness = 7
 	controller = POR
 	add_core = POR
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = portugese
 }
 1701.1.1 = { trade_goods = gold }

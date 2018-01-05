@@ -30,7 +30,7 @@ native_hostileness = 9
 1541.2.12 = {	owner = SPA
 	controller = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 }
 1566.2.12 = { add_core = SPA }
 1810.9.18 = {

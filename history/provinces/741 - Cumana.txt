@@ -26,7 +26,7 @@ native_hostileness = 2
 	unrest = 5
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = coffee
 } # First settlements, weakly controlled by Spain. Century of continual low-intensity warfare.
 1652.1.1 = { unrest = 0 } # Last uprising is put down

@@ -18,7 +18,7 @@ discovered_by = chinese
 1570.5.1 = {
 	owner = SPA
 	controller = SPA
-	religion = catholic
+	religion = new_norse
 	add_core = SPA 
 }
 1587.1.1 = {

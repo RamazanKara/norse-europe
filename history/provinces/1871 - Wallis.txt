@@ -3,7 +3,7 @@
 owner = SAV
 controller = SAV
 culture = goths
-religion = catholic
+religion = new_norse
 capital = "Sion"
 trade_goods = livestock
 hre = yes

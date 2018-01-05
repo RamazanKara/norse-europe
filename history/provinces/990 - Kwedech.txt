@@ -23,7 +23,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 } # Founding of Trois-Rivières
 1639.1.1 = { unrest = 5 } # Settlement created by Jérôme Le Royer, under constant attacks from the Iroquois

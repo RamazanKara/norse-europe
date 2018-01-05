@@ -3,7 +3,7 @@
 owner = SAV
 controller = SAV
 culture = goths
-religion = catholic
+religion = new_norse
 hre = yes
 base_tax = 9
 base_production = 9

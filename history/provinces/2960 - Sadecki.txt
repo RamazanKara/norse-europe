@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 culture = polish
-religion = catholic
+religion = new_norse
 capital = "Nowy Sacz"
 hre = no
 base_tax = 6
@@ -32,7 +32,7 @@ discovered_by = ottoman
 } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Civil war, Polish succession
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
-1658.1.1 = { religion = catholic }
+1658.1.1 = { religion = new_norse }
 1733.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The war of Polish succession
 1735.1.1 = { revolt = {} controller = PLC }
 1772.8.5 = { owner = HAB controller = HAB add_core = HAB } #First Partition

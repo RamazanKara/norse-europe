@@ -26,7 +26,7 @@ native_hostileness = 3
 	add_core = POR
 	trade_goods = fish
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 }
 1718.1.1 = { unrest = 6 } # Natives led by Mandu Ladino rebelled against the Portugese expansion

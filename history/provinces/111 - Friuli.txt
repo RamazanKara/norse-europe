@@ -3,7 +3,7 @@
 owner = AQU
 controller = AQU
 culture = venetian 
-religion = catholic 
+religion = new_norse 
 hre = no 
 base_tax = 6 
 base_production = 6    

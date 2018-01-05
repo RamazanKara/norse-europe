@@ -17,7 +17,7 @@ native_hostileness = 0
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 }
 1800.1.1 = { trade_goods = slaves }
 1814.4.11 = {

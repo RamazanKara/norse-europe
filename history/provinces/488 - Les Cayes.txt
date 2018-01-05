@@ -21,7 +21,7 @@ discovered_by = ARW
 	add_core = CAS
 	culture = castillian
 	capital = "Salvatiera de la Sabana"
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = sugar
 }

@@ -24,7 +24,7 @@ discovered_by = mesoamerican
 	add_core = SPA
 	trade_goods = gold
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 } 
 1578.1.1 = { discovered_by = ENG } # Drake 

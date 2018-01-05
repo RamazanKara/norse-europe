@@ -26,7 +26,7 @@ add_local_autonomy = 50
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 }
 1810.7.20 = {
 	owner = COL

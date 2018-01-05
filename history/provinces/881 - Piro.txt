@@ -27,7 +27,7 @@ discovered_by = north_american
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = salt 
 } # Spanish conquest of the Pueblo people
 1660.1.1 = { unrest = 4 }
@@ -45,6 +45,6 @@ discovered_by = north_american
 	controller = SPA 
 	remove_core = PUE 
 	culture = castillian 
-	religion = catholic 
+	religion = new_norse 
 } # The Spanish reestablished control & the colonists returned
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

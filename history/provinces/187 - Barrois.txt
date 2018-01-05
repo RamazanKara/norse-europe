@@ -5,7 +5,7 @@ controller = BAR
 capital = "Bar-le-Duc"
 is_city = yes
 culture = burgundian
-religion = catholic
+religion = new_norse
 hre = yes
 base_tax = 5 
 base_production = 5
@@ -33,8 +33,8 @@ discovered_by = ottoman
 1551.3.20 = { controller = FRA } # Franco-Habsburg War (1551-1559): France takes Toul & Verdun
 1559.4.3 = { owner = FRA add_core = FRA capital = "Verdun" } # Peace of Cateau-Cambrésis, France annexes Barrois
 1583.1.1 = { fort_15th = no fort_16th = yes }
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1636.7.30 = { controller = HAB } # Habsburg forces ravage North Eastern France
 1636.10.10 = { controller = FRA } # Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
 1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde

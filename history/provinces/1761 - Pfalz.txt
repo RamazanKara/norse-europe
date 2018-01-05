@@ -2,7 +2,7 @@
 
 capital = "Worms"
 culture = hessian
-religion = catholic
+religion = new_norse
 trade_goods = wine
 owner = PAL
 base_tax = 6 
@@ -23,7 +23,7 @@ discovered_by = ottoman
 1546.4.19 = { religion = protestant } # #Friedrich II converts the coutnry to protestant
 1689.8.1 = { base_tax = 5 
 base_production = 5 controller = FRA } # French troops burn, pillage and destroy in the succession wars.
-1697.4.19 = { owner = PAL controller = PAL } # Peace of Rijswijk strengthens the catholics
+1697.4.19 = { owner = PAL controller = PAL } # Peace of Rijswijk strengthens the new_norses
 1777.12.30 = {
 	owner = BAV
 	controller = BAV

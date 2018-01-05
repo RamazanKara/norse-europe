@@ -33,7 +33,7 @@ base_manpower = 1
 	add_core = SPA
 	trade_goods = iron
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Continued to prosper in spite of several attacks
 1816.7.9 = {
 	owner = LAP

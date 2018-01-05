@@ -29,7 +29,7 @@ discovered_by = AZT
 	capital = "Trujillo"
 	culture = castillian
 	trade_goods = fish
-	religion = catholic
+	religion = new_norse
 	is_city = yes
  } # de Olid
 1548.1.1 = { unrest = 5 } # Slave rebellion 

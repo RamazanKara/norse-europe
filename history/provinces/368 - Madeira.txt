@@ -19,7 +19,7 @@ native_hostileness = 0
 	add_core = POR
 	is_city = yes
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	discovered_by = POR
 }
 1425.1.1 = {

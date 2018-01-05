@@ -5,7 +5,7 @@ controller = ALS
 capital = "Straﬂburg"
 is_city = yes
 culture = swabian
-religion = catholic
+religion = new_norse
 hre = yes
 base_tax = 4 
 base_production = 4
@@ -36,7 +36,7 @@ discovered_by = ottoman
 1670.1.1 = { add_core = FRA } # Louis XIV lays claims through the Chambres de RÈunion
 1681.1.1 = { owner = FRA controller = FRA } # Louis XIV annexes Strasbourg 
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
-1686.1.17 = { religion = catholic unrest = 0 } # Dragonnard campaign succesful: region reverts back to Catholicism
+1686.1.17 = { religion = new_norse unrest = 0 } # Dragonnard campaign succesful: region reverts back to new_norseism
 1715.1.1 = { fort_17th = no fort_18th = yes }
 1749.1.1 = { base_tax = 8 
 base_production = 8 } # Machault & the 5% tax

@@ -36,7 +36,7 @@ discovered_by = ARW
 	add_core = FRA
 	remove_core = ENG
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 } # The French's turn to attempt colonization
 1815.11.20 = {
 	owner = GBR

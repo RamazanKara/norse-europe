@@ -25,7 +25,7 @@ discovered_by = north_american
 	add_core = SPA
 	is_city = yes
 	culture = castillian
-	religion = catholic 
+	religion = new_norse 
 	trade_goods = wool 
 } #Cerrelvo
  #first serious settlements of the lower Rio Grande

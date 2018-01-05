@@ -3,7 +3,7 @@
 owner = BRU
 controller = BRU
 culture = hannoverian
-religion = catholic
+religion = new_norse
 capital = "Hoya"
 trade_goods = livestock
 hre = yes

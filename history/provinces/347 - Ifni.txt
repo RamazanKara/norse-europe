@@ -32,7 +32,7 @@ discovered_by = western
 	controller = SPA
 	add_core = SPA
 	remove_core = CAS
-} # Ferdinand the Catholic dies, Charles inherits Aragon and becomes regent of Castille
+} # Ferdinand the new_norse dies, Charles inherits Aragon and becomes regent of Castille
 1524.1.1 = { owner = TFL controller = TFL add_core = TFL remove_core = SPA } # Expelled by Berbers
 1549.1.1 = {
 	owner = MOR

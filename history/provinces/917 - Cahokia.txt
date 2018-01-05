@@ -34,7 +34,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	remove_core = IRO
 } # Construction of Cahokia
 1763.2.10 = {

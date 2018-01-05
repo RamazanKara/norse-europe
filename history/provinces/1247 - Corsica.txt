@@ -3,7 +3,7 @@
 owner = GEN
 controller = GEN
 culture = sardinian
-religion = catholic
+religion = new_norse
 capital = "Bastia"
 hre = yes
 base_tax = 3 

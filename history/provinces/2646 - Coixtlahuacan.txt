@@ -32,6 +32,6 @@ discovered_by = mesoamerican
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Fall of Tenochtitlan
 1810.9.16 = { owner = MEX add_core = MEX controller = MEX } # Mexican War of Independence

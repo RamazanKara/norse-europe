@@ -20,7 +20,7 @@ add_core = MCA
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	religion = catholic
+	religion = new_norse
 	culture = castillian
 } # Founded by Gonzalo Jiménez de Quesada
 1810.7.20 = {

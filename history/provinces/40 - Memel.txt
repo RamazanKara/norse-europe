@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 culture = lithuanian
-religion = catholic
+religion = new_norse
 capital = "Memel"
 trade_goods = livestock
 hre = no

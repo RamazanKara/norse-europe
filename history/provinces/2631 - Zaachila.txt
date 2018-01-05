@@ -28,6 +28,6 @@ discovered_by = mesoamerican
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } #Peaceful takeover by the Dominican order
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

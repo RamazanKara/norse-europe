@@ -20,6 +20,6 @@ add_local_autonomy = 25
 	owner = SPA
 	controller = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Palawan is ceded to Spain
 1774.1.1 = { add_core = SPA }

@@ -24,7 +24,7 @@ native_hostileness = 5
 	add_core = SPA
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur
 }
 1795.1.1 = { unrest = 4 } # Slave rebellion

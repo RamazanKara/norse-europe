@@ -26,7 +26,7 @@ discovered_by = north_american
 	is_city = yes	
 	culture = cosmopolitan_french
 	trade_goods = fish
-	religion = catholic
+	religion = new_norse
 } # French influence in the region, Fort Pentagouet, first trading posts
 1626.1.1 = {
 	owner = ENG
@@ -42,7 +42,7 @@ discovered_by = north_american
 	add_core = FRA
 	remove_core = ENG
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 } # Treaty of St. Germain-en-Layne, handed back to the French
 1654.1.1 = {
 	owner = ENG
@@ -58,7 +58,7 @@ discovered_by = north_american
 	add_core = FRA
 	remove_core = ENG
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 } # Treaty, handed back to the French (again, again)
  #Capital of French Acadia
 1674.1.1 = {
@@ -75,7 +75,7 @@ discovered_by = north_american
 	add_core = FRA
 	remove_core = NED
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 } # Back to the French for the third time.
 1698.1.1 = {
 	owner = ABE

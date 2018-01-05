@@ -24,7 +24,7 @@ native_hostileness = 9
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 }
 1600.1.1 = { unrest = 9 } # Great uprising, all Spaniards south of Biobio are driven out
 1601.1.1 = { unrest = 0 }

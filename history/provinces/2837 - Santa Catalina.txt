@@ -33,7 +33,7 @@ base_manpower = 1
 1593.1.1 = { discovered_by = SPA } # Francisco de Asgaranaz y Murguía, under constant attack
 1600.1.1 = {	
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Continued to prosper in spite of several attacks
 1816.7.9 = {
 	owner = LAP

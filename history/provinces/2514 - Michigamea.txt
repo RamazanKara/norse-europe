@@ -36,7 +36,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	trade_goods = grain
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 }
 1762.1.1 = {

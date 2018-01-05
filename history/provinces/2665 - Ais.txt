@@ -23,7 +23,7 @@ discovered_by = north_american
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	trade_goods = cotton
 	culture = castillian 
 } #San Franciso de los Tejas mission

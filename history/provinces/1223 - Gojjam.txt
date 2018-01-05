@@ -32,11 +32,11 @@ discovered_by = indian
 1559.1.1 = { unrest = 0 }
 1575.1.1 = { unrest = 5 } #Invasion by Oromo
 1576.1.1 = { unrest = 0 }
-1603.1.1 = { unrest = 9 } #Revolt against Za Dengel after his conversion to Catholicism
+1603.1.1 = { unrest = 9 } #Revolt against Za Dengel after his conversion to new_norseism
 1604.10.25 = { unrest = 0 } #Za Dengel overthrown, revolt ends
 1607.1.1 = { unrest = 9 } #Suseynos invades Gojjam from Shoa 
 1608.1.1 = { unrest = 0 } #Suseynos defeats Yakob
-1627.1.1 = { unrest = 9 } #Suseynos' proclamation of Roman Catholicism causes massive revolts
+1627.1.1 = { unrest = 9 } #Suseynos' proclamation of Roman new_norseism causes massive revolts
 1630.1.1 = { unrest = 7 } #Sarsa Krestos rebels against Suseynos
 1631.1.1 = { unrest = 3 } #Suseynos defeats Sarsa Krestos
 1632.1.1 = { unrest = 8 } #Malta Krestos rebels against Suseynos

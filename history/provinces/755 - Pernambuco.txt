@@ -26,7 +26,7 @@ native_hostileness = 2
 	add_core = POR
 	is_city = yes
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = sugar
 } # Pedro Álvares Cabral
 1597.1.1 = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory
@@ -45,7 +45,7 @@ native_hostileness = 2
 	controller = POR
 	remove_core = NED
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	unrest = 0
 } # The dutch are chased out
 1655.1.1 = { trade_goods = sugar } # Prodcution of enormous quantities of sugar

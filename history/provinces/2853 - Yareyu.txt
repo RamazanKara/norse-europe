@@ -19,7 +19,7 @@ native_hostileness = 8
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = grain
 }
 1580.1.1 = { is_city = yes }

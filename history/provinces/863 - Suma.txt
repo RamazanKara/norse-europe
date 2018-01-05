@@ -23,7 +23,7 @@ discovered_by = north_american
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = castillian
 	trade_goods = wool 
 } # First Spanish colonists, early El Paso was on this side of the river.

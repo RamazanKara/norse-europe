@@ -3,7 +3,7 @@
 owner = BOS # Part of the Bosnian kingdom
 controller = BOS
 culture = croatian
-religion = catholic
+religion = new_norse
 capital = "Jajce"
 trade_goods = livestock
 hre = no

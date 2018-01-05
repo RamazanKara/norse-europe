@@ -24,7 +24,7 @@ discovered_by = ARW
 	controller = FRA 
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic 
+	religion = new_norse 
 	trade_goods = dyes
 	is_city = yes
 } # Colonized by France
@@ -41,7 +41,7 @@ discovered_by = ARW
 	controller = FRA
 	add_core = FRA
 	remove_core = GBR
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 } # French attack, inspired by the American revolution
 1782.1.1 = { owner = GBR controller = GBR add_core = GBR } # The Battle of the Saints, the French administration was over

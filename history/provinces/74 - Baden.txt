@@ -5,7 +5,7 @@ controller = BAD
 add_core = BAD
 capital = "Baden"
 trade_goods = wine
-religion = catholic
+religion = new_norse
 culture = swabian
 base_tax = 2 
 base_production = 2
@@ -21,7 +21,7 @@ discovered_by = ottoman
 
 
 1538.1.1 = { religion = protestant } # Protestant majority
-1650.1.1 = { religion = catholic }
+1650.1.1 = { religion = new_norse }
 1771.1.1 = { base_tax = 4 
 base_production = 4 base_manpower = 2 } # Baden-Baden Line dies without heirs, thus the possessions of the Baden family are reunited in one hand (Baden-Durlach).
 1792.10.3 = { controller = FRA } # Occupied by French troops

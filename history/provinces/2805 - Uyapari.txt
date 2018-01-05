@@ -29,7 +29,7 @@ native_hostileness = 6
 	add_core = SPA
 	unrest = 5
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # First settlements, weakly controlled by Spain. Century of continual low-intensity warfare.
 1550.1.1 = { unrest = 3 }
 1652.1.1 = { unrest = 0 } # Last uprising is put down

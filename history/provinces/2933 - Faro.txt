@@ -20,6 +20,6 @@ native_hostileness = 6
 	discovered_by = POR
 	add_core = POR
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = cocoa
 }

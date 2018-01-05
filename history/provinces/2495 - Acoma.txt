@@ -38,7 +38,7 @@ discovered_by = north_american
 	controller = SPA 
 	remove_core = PUE 
 	culture = castillian 
-	religion = catholic 
+	religion = new_norse 
 } # The Spanish reestablished control 
 1810.9.16 = {
 	owner = MEX

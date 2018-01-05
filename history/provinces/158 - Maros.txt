@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN 
 culture = transylvanian #Szeklers
-religion = catholic
+religion = new_norse
 capital = "Targu Mures"
 estate = estate_nobles #Szekelyföld
 trade_goods = wool

@@ -28,7 +28,7 @@ discovered_by = mesoamerican
 1572.1.1 = { 
 	unrest = 0
 	culture = castillian
-	religion = catholic 
+	religion = new_norse 
 }
 1761.1.1 = { unrest = 6 } # Natives revolt against Spanish rule, led by CapEk 
 1763.1.1 = { unrest = 0 } 

@@ -3,7 +3,7 @@
 owner = MUN
 controller = MUN
 culture = hannoverian
-religion = catholic
+religion = new_norse
 trade_goods = cloth
 capital = "Meppen"
 base_tax = 4

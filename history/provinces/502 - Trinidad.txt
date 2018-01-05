@@ -23,7 +23,7 @@ discovered_by = south_american
 	controller = CAS
 	culture = castillian
 	add_core = CAS
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 	trade_goods = cocoa
 } # Christopher Columbus

@@ -5,7 +5,7 @@ controller = PRO
 capital = "Draguignane"
 is_city = yes
 culture = occitain
-religion = catholic
+religion = new_norse
 hre = no
 base_tax = 4 
 base_production = 4
@@ -28,10 +28,10 @@ discovered_by = ottoman
 1536.9.15 = { controller = FRA } # Charles V retreats from the Provence
 1545.1.1 = { unrest = 5 } # Unrest among the Waldensians in the Luberon mountains
 1546.1.1 = { unrest = 0 } # Peace returns
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
 1590.6.1 = { controller = SAV } # Duke Emmanuel Phillibert enters Aix-en-Provence
 1591.4.5 = { controller = FRA } # The Savoyard army is routed at Esparron
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1630.1.1 = { unrest = 5 }
 1633.1.1 = { unrest = 0 }
 1649.1.1 = { unrest = 5 }

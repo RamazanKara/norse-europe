@@ -20,7 +20,7 @@ native_hostileness = 2
 	controller = POR
 	add_core = POR
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = tropical_wood
 }
 1597.1.1 = { unrest = 3 } # Expulsion of the buccaneers that had taken over the territory

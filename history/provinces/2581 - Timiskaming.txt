@@ -25,7 +25,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur
 } #Fort Témiscamingue founded
 1707.5.12 = { discovered_by = GBR } 

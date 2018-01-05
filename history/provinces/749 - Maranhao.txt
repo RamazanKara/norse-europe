@@ -27,7 +27,7 @@ native_hostileness = 3
 	add_core = FRA
 	capital = "Saint Louis"
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 	trade_goods = tropical_wood
 } # Founded by the French
@@ -47,7 +47,7 @@ native_hostileness = 3
 1644.1.1 = {	owner = POR
 	controller = POR
 	culture = portugese
-	religion = catholic	  	
+	religion = new_norse	  	
 }
 1677.1.1 = { unrest = 5 } # Jesuits are expelled from Maranhao
 1678.1.1 = { unrest = 0 }

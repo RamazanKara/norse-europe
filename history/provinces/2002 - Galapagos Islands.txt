@@ -25,7 +25,7 @@ discovered_by = INC
 	trade_goods = grain
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Fray Tomás de Berlanga
 1819.12.17 = {
 	owner = COL

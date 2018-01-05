@@ -18,6 +18,6 @@ native_hostileness = 0
 	is_city = yes
 	trade_goods = slaves
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 }
 1500.1.1 = { trade_goods = fish }

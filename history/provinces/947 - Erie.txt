@@ -47,7 +47,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur
 } # Construction of Fort Presque Isle
 1760.1.1 = { controller = GBR } # Occupied by the British

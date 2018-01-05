@@ -20,7 +20,7 @@ discovered_by = ARW
 	controller = CAS
 	culture = castillian
 	add_core = CAS
-	religion = catholic
+	religion = new_norse
 }
 1510.1.1 = { trade_goods = sugar }
 1516.1.23 = {

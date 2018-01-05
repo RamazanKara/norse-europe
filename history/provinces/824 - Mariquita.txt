@@ -25,7 +25,7 @@ native_hostileness = 2
 	add_core = SPA
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur
 } # Gonzalo Jimanez de Quesada
 1810.7.20 = {

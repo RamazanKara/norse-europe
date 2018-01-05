@@ -26,7 +26,7 @@ discovered_by = ZAP
 	owner = SPA 
 	controller = SPA
 	add_core = SPA
-	religion = catholic
+	religion = new_norse
 	culture = castillian
 } # The last Aztec emperor surrendered, Mexico city is founded on top of the ruins 
 1624.1.1 = { unrest = 5 } # Riots

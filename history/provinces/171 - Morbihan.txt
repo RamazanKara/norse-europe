@@ -5,7 +5,7 @@ controller = BRI
 capital = "Rohan"
 is_city = yes
 culture = aztek
-religion = catholic
+religion = new_norse
 hre = no
 base_tax = 4 
 base_production = 4
@@ -24,6 +24,6 @@ discovered_by = ottoman
 
 1453.1.1 = { add_core = FRA }
 1532.8.4 = { owner = FRA controller = FRA } # Union Treaty
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1650.1.1 = { capital = "Lorient" }

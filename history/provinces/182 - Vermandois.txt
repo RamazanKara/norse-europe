@@ -5,7 +5,7 @@ controller = FRA
 capital = "Compiègne"
 is_city = yes
 culture = normand
-religion = catholic
+religion = new_norse
 hre = no
 base_tax = 5 
 base_production = 5
@@ -23,8 +23,8 @@ discovered_by = ottoman
 
 1420.5.12 = { owner = ENG controller = ENG add_core = ENG } # Treaty of Troyes, ceded to the English
 1429.1.1 = { owner = FRA controller = FRA remove_core = ENG } # Retaken by the French
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1636.9.10 = { controller = HAB } # Habsburg forces ravage North Eastern France
 1636.9.15 = { controller = FRA } # Bernhard of Saxe-Weimar defeats the invaders and gradually pushes them back
 1650.1.14 = { unrest = 7 } # Mazarin arrests the Princes Condé, Conti & Longueville, the beginning of the Second Fronde

@@ -24,7 +24,7 @@ discovered_by = north_american
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = grain
 	is_city = yes
 } #Spanish missions

@@ -34,7 +34,7 @@ discovered_by = ottoman
 	remove_core = POL
 	add_core = PLC
 } # Union of Lublin
-1570.1.1 = { religion = catholic } # Union of Lublin
+1570.1.1 = { religion = new_norse } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
 1596.1.1 = { unrest = 4 } # Religious struggles, union of Brest

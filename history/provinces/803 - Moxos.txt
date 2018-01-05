@@ -26,7 +26,7 @@ discovered_by = andean
 	capital = "Trinidad"
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = grain
 } # Founded by Padre Cipriano Barace
 1711.1.1 = { add_core = SPA }

@@ -5,7 +5,7 @@ controller = FRA
 capital = "Nemours"
 is_city = yes
 culture = goths
-religion = catholic
+religion = new_norse
 hre = no
 base_tax = 6
 base_production = 6
@@ -20,8 +20,8 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
-1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
+1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-new_norses into a frenzy
+1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to new_norseism
 1621.1.1 = { base_tax = 7 
 base_production = 7 } # Richelieu
 1630.1.1 = { unrest = 3 }

@@ -3,7 +3,7 @@
 owner = LIT
 controller = LIT
 culture = lithuanian
-religion = catholic
+religion = new_norse
 capital = "Varniai"
 trade_goods = livestock
 hre = no

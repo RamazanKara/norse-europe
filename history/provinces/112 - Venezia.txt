@@ -3,7 +3,7 @@
 owner = VEN
 controller = VEN
 culture = venetian 
-religion = catholic 
+religion = new_norse 
 hre = no 
 base_tax = 10 
 base_production = 12 

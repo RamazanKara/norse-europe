@@ -30,7 +30,7 @@ discovered_by = andean
 	owner = SPA
 	controller = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	add_core = SPA
 	trade_goods = grain
 } # Founded by Sebastián de Benalcázar

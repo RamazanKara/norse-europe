@@ -20,13 +20,13 @@ native_hostileness = 8
 	add_core = GUA
 	is_city = yes
 	trade_goods = tea
-	religion = catholic
+	religion = new_norse
 }
 1756.2.1 = {
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	religion = catholic
+	religion = new_norse
 } # Outcome of the Guarani War
 1790.1.1 = { unrest = 6 } # Desire for independence
 1811.5.17 = {

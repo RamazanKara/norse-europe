@@ -24,7 +24,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 } # Fort La Forteau
 1750.1.1 = { trade_goods = fish }

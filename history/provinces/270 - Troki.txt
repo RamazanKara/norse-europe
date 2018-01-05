@@ -2,7 +2,7 @@
 
 owner = LIT
 controller = LIT
-religion = "catholic"
+religion = "new_norse"
 culture = lithuanian
 capital = "Trakai"
 trade_goods = livestock

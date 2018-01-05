@@ -25,7 +25,7 @@ discovered_by = CHM
 	controller = SPA
 	add_core = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	trade_goods = cocoa
 	is_city = yes
 }

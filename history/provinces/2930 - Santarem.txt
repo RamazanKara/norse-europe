@@ -19,7 +19,7 @@ native_hostileness = 6
 	controller = POR
 	add_core = POR
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = tropical_wood
 	is_city = yes 
 }

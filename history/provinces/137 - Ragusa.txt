@@ -3,7 +3,7 @@
 owner = RAG
 controller = RAG
 culture = croatian
-religion = catholic
+religion = new_norse
 capital = "Ragusa"
 trade_goods = naval_supplies
 hre = no

@@ -24,7 +24,7 @@ discovered_by = andean
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = castillian
 	trade_goods = tropical_wood
 }

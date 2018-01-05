@@ -24,7 +24,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = fish
 	is_city = yes
 } # Founding of St-Joseph de la Pointe de Lévy, first south hore parish

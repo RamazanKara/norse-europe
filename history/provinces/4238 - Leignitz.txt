@@ -3,7 +3,7 @@
 owner = SIL
 controller = SIL
 culture = schlesian
-religion = catholic
+religion = new_norse
 capital = "Liegnitz"
 trade_goods = glass
 hre = yes

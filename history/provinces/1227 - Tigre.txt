@@ -31,9 +31,9 @@ discovered_by = indian
 1561.1.1 = { unrest = 6 } # Ottomans invade Ethiopian highlands to support Yeshaq
 1562.1.1 = { unrest = 7 } # Raids by Ethiopians against Turkish occupiers
 1587.1.1 = { unrest = 7 } # Raids by Turks from Massawa
-1603.1.1 = { unrest = 9 } # Revolt against Za Dengel after his conversion to Catholicism
+1603.1.1 = { unrest = 9 } # Revolt against Za Dengel after his conversion to new_norseism
 1604.10.25 = { unrest = 0 } # Za Dengel overthrown, revolt ends
-1627.1.1 = { unrest = 9 } # Suseynos' proclamation of Roman Catholicism causes massive revolts
+1627.1.1 = { unrest = 9 } # Suseynos' proclamation of Roman new_norseism causes massive revolts
 1628.1.1 = { unrest = 0 }
 1630.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Sarsa Krestos rebels against Suseynos
 1631.1.1 = { revolt = {} controller = ETH unrest = 6 } # Suseynos defeats Sarsa Krestos

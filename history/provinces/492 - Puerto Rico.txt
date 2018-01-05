@@ -21,7 +21,7 @@ discovered_by = ARW
 	add_core = CAS
 	is_city = yes
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 }
 1500.1.1 = { trade_goods = sugar }
 1516.1.23 = {

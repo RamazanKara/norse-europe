@@ -3,7 +3,7 @@
 owner = PAP		#Bologna was independent until 1506, but the rest of Romagna was mainly under Papal control.
 controller = PAP
 culture = romagnan 
-religion = catholic 
+religion = new_norse 
 hre = no 
 base_tax = 6 
 base_production = 6    

@@ -25,7 +25,7 @@ discovered_by = north_american
 	add_core = FRA
 	trade_goods = cotton
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	culture = cosmopolitan_french
 } # French settlement
 1762.1.1 = {

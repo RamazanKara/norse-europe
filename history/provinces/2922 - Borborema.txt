@@ -20,7 +20,7 @@ native_hostileness = 6
 	add_core = POR
 	is_city = yes
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = tobacco
 }
 1650.1.1 = { capital = "Cimbres" }

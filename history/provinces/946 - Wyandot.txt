@@ -45,7 +45,7 @@ discovered_by = north_american
 	add_core = FRA
 	culture = cosmopolitan_french
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	trade_goods = fur
 } # French occupy northern Ohio
 1763.2.10 = {

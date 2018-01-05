@@ -34,7 +34,7 @@ discovered_by = north_american
 	controller = FRA
 	add_core = FRA
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 } #Great Peace of Montreal, French and allies dominant in this area
 1750.1.1 = {	
 	capital = "Fort Rouillé"

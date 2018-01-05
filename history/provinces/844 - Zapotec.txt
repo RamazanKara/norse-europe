@@ -27,6 +27,6 @@ discovered_by = mesoamerican
 1529.1.1 = {
 	capital = "Oaxaca"
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # First settlers
 1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

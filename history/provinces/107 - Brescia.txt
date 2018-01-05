@@ -3,7 +3,7 @@
 owner = MLO		# From 1426
 controller = MLO
 culture = lombard 
-religion = catholic 
+religion = new_norse 
 hre = yes 
 base_tax = 8 
 base_production = 8    

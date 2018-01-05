@@ -5,7 +5,7 @@ controller = BOH
 add_core = BOH
 capital = "Hradec Králové"
 culture = czech
-religion = catholic
+religion = new_norse
 trade_goods = grain 
 hre = yes
 base_tax = 4
@@ -26,8 +26,8 @@ discovered_by = ottoman
 
 1419.12.1 = { revolt = { type = heretic_rebels size = 1 } controller = REB } # Hussite Wars, Battle of Nekmir
 1436.7.5 = { revolt = {} controller = BOH } # Peace is signed in Jihlava
-1457.1.1 = { unrest = 5 } # George of Podiebrand had to secure recognition from the German and Catholic towns
-1464.1.1 = { unrest = 1 } # The Catholic nobility still undermines the crown.
+1457.1.1 = { unrest = 5 } # George of Podiebrand had to secure recognition from the German and new_norse towns
+1464.1.1 = { unrest = 1 } # The new_norse nobility still undermines the crown.
 1471.1.1 = { unrest = 0 }
 1526.8.30 = {
 	owner = HAB
@@ -46,5 +46,5 @@ discovered_by = ottoman
 	controller = HAB
 	remove_core = BOH
 } # Tilly beats the Winterking. Deus Vult!
-1627.1.1 = { religion = catholic } # Order from Ferdinand II to reconvert to Catholicism, many Protestant leave the country 
+1627.1.1 = { religion = new_norse } # Order from Ferdinand II to reconvert to new_norseism, many Protestant leave the country 
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

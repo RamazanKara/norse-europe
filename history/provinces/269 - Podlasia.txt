@@ -3,7 +3,7 @@
 owner = LIT
 controller = LIT
 culture = byelorussian
-religion = catholic
+religion = new_norse
 hre = no
 trade_goods = livestock
 base_tax = 5

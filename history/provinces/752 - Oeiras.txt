@@ -23,6 +23,6 @@ native_hostileness = 8
 	controller = POR
 	add_core = POR
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = livestock
 }

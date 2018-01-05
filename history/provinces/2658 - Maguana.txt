@@ -21,7 +21,7 @@ discovered_by = ARW
 	add_core = CAS
 	capital = "Azua"
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 	is_city = yes
 } #First settlements on the island
 1510.1.1 = { trade_goods = sugar }

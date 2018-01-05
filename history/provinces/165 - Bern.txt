@@ -3,7 +3,7 @@
 owner = SWI
 controller = SWI 
 culture = goths
-religion = catholic
+religion = new_norse
 capital = "Bern"
 trade_goods = iron
 hre = yes

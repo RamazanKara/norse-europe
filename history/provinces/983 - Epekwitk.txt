@@ -25,7 +25,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = naval_supplies
 } # Founding of Port la Joie
 1758.8.1 = { controller = GBR } # British control, Fort Amherst is built

@@ -1,7 +1,7 @@
 owner = AAC
 controller = AAC
 culture = hessian
-religion = catholic
+religion = new_norse
 trade_goods = grain
 capital = "Aachen"
 base_tax = 5

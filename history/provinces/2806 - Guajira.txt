@@ -20,7 +20,7 @@ native_hostileness = 5
 	add_core = SPA
 	trade_goods = wool
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Estimated
 1577.6.30 = { is_city = yes }
 1811.7.5 = {

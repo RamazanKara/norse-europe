@@ -3,7 +3,7 @@
 owner = LIV
 controller = LIV
 culture = latvian
-religion = catholic
+religion = new_norse
 capital = "Fellin"
 trade_goods = livestock
 hre = no

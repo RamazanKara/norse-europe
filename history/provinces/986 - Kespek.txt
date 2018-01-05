@@ -25,7 +25,7 @@ discovered_by = north_american
 	add_core = FRA
 	is_city = yes
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = fish
 } # First permanent fishing posts on the Gaspe peninsula
 1707.5.12 = { discovered_by = GBR } 

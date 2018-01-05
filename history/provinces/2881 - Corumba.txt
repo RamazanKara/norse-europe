@@ -24,7 +24,7 @@ native_hostileness = 1
 	add_core = SPA
 	is_city = yes
 	trade_goods = tea
-	religion = catholic
+	religion = new_norse
 	culture = castillian
 }
 1778.9.21 = {

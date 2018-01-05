@@ -3,7 +3,7 @@
 owner = KOL
 controller = KOL
 culture = hannoverian
-religion = catholic
+religion = new_norse
 trade_goods = wool
 capital = "Arnsberg"
 base_tax = 3 
@@ -25,7 +25,7 @@ discovered_by = ottoman
 1566.1.1 = { religion = reformed }
 1568.1.1 = { owner = MUN controller = MUN }
 1574.1.1 = { owner = KOL controller = KOL }
-1585.1.1 = { religion = catholic } # Jesuites are efficient in restoring the catholic faith
+1585.1.1 = { religion = new_norse } # Jesuites are efficient in restoring the new_norse faith
 1661.1.1 = { owner = MUN controller = MUN  }
 1724.1.1 = { owner = KOL controller = KOL }
 1802.1.1 = {

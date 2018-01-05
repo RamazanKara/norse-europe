@@ -20,7 +20,7 @@ add_core = BTU
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	religion = catholic
+	religion = new_norse
 	trade_goods = tropical_wood
 } # Sultanate of Maguindanao
 1521.1.1 = { discovered_by = SPA }

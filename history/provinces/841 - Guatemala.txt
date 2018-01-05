@@ -25,7 +25,7 @@ discovered_by = AZT
 	owner = SPA 
 	controller = SPA
 	culture = castillian
-	religion = catholic
+	religion = new_norse
 } # Colonized and conquered by Spanish armies 
 1527.1.1 = { capital = "Ciudad Vieja" }
 1542.1.1 = { capital = "Antigua" } 

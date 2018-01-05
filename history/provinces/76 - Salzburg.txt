@@ -3,7 +3,7 @@
 owner = SLZ
 controller = SLZ 
 culture = austrian
-religion = catholic
+religion = new_norse
 capital = "Salzburg"
 trade_goods = salt
 hre = yes

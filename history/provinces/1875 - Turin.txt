@@ -3,7 +3,7 @@
 owner = SAV
 controller = SAV
 culture = piedmontese
-religion = catholic
+religion = new_norse
 hre = yes
 base_tax = 5 
 base_production = 5

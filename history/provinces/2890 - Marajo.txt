@@ -26,7 +26,7 @@ native_hostileness = 3
 	is_city = yes
 	capital = "Vigia"
 	culture = portugese
-	religion = catholic
+	religion = new_norse
 	trade_goods = sugar
 }
 1738.11.19 = { capital = "Breves" }

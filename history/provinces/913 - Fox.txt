@@ -30,7 +30,7 @@ discovered_by = north_american
 	add_core = FRA
 	remove_core = FOX
 	culture = cosmopolitan_french
-	religion = catholic
+	religion = new_norse
 	trade_goods = iron 
 } #End of the second Fox war
 1763.2.10 = {
