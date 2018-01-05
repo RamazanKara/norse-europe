@@ -2,8 +2,8 @@
 
 owner = SAV
 controller = SAV
-culture = swiss
-religion = catholic
+culture = goths
+religion = new_norse
 capital = "Lausanne"
 trade_goods = livestock
 hre = yes

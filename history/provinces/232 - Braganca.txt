@@ -2,7 +2,7 @@
 
 owner = POR
 controller = POR
-culture = portugese
+culture = aztek
 religion = catholic
 capital = "Bragança"
 trade_goods = wine

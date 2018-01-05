@@ -3,7 +3,7 @@
 owner = ARA		#Alfons V of Aragon
 controller = ARA
 add_core = ARA
-culture = aragonese
+culture = goths
 religion = catholic
 hre = no
 base_tax = 3 

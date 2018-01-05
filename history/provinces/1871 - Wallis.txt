@@ -2,7 +2,7 @@
 
 owner = SAV
 controller = SAV
-culture = swiss
+culture = goths
 religion = catholic
 capital = "Sion"
 trade_goods = livestock

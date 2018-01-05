@@ -2,7 +2,7 @@
 
 owner = SWI
 controller = SWI 
-culture = swiss
+culture = goths
 religion = catholic
 capital = "Bern"
 trade_goods = iron

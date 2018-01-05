@@ -3,7 +3,7 @@
 owner = CAS		#Enrique III of Castille
 controller = CAS
 add_core = CAS
-culture = castillian
+culture = aztek
 religion = catholic
 hre = no
 base_tax = 4
