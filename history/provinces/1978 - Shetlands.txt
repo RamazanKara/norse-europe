@@ -2,7 +2,7 @@
 
 owner = NOR
 controller = NOR
-culture = norwegian
+culture = norn
 religion = new_norse
 hre = no
 base_tax = 1 

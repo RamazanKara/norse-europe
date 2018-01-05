@@ -3,7 +3,7 @@
 
 owner = ENG
 controller = ENG
-culture = english
+culture = anglo-norse
 religion = new_norse
 hre = no
 base_tax = 8 
