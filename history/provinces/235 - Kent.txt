@@ -4,7 +4,7 @@
 owner = ENG
 controller = ENG
 culture = english
-religion = protestant
+religion = new_norse
 hre = no
 base_tax = 5 
 base_production = 6

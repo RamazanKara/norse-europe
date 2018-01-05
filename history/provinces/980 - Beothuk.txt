@@ -1,7 +1,7 @@
 #980 - Beothuk
 
 culture = cree
-religion = totemism
+religion = new_norse
 capital = "Beothuk"
 trade_goods = unknown
 hre = no

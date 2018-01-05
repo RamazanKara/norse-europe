@@ -2,8 +2,8 @@
 
 owner = ENG
 controller = ENG
-culture = english
-religion = catholic
+culture = norse_gaelic
+religion = new_norse
 hre = no
 base_tax = 6 
 base_production = 7

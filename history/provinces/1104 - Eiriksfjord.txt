@@ -1,7 +1,7 @@
 #1104 - Eiriksfjord
 
 culture = inuit
-religion = animism
+religion = new_norse
 capital = "Eiriksfjord"
 trade_goods = unknown
 hre = no

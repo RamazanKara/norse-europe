@@ -3,7 +3,7 @@
 owner = SCO
 controller = SCO
 culture = norse_gaelic
-religion = norse_pagan_reformed
+religion = new_norse
 hre = no
 base_tax = 3
 base_production = 4

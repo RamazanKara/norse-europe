@@ -29,7 +29,7 @@ norse_group = {
 			local_missionary_strength = 0.02
 		}
 		
-		personal_deity = yes
+		personal_deity = no
 		
 		heretic = { OLD_NORSE }	
 	}
