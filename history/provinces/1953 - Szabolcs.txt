@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN 
 culture = hungarian
-religion = new_norse
+religion = catholic
 capital = "Debrecen"
 trade_goods = livestock
 hre = no

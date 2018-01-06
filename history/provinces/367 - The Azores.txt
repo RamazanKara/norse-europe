@@ -1,7 +1,7 @@
 #367 - The Azores
 
 culture = berber
-religion = animism
+religion = jewish
 capital = "The Azores"
 trade_goods = unknown
 hre = no

@@ -3,7 +3,7 @@
 owner = BOS		# Part of the Bosnian kingdom
 controller = BOS
 culture = serbian
-religion = new_norse
+religion = catholic
 capital = "Mostar"	# Unofficial capital of Herzegovina
 trade_goods = wool
 hre = no

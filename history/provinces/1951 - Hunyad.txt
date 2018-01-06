@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN 
 culture = transylvanian
-religion = orthodox
+religion = catholic
 capital = "Alba Iulia"
 trade_goods = iron
 hre = no

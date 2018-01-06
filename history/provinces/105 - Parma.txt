@@ -3,7 +3,7 @@
 owner = MLO
 controller = MLO
 culture = romagnan 
-religion = new_norse 
+religion = orthodox 
 hre = yes 
 base_tax = 6 
 base_production = 6 

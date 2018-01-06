@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN
 culture = croatian
-religion = new_norse
+religion = orthodox
 capital = "Zadar"
 trade_goods = wool
 hre = no

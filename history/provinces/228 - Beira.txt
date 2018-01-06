@@ -3,7 +3,7 @@
 owner = POR
 controller = POR
 culture = portugese
-religion = new_norse
+religion = nahuatl
 capital = "Viseu"
 trade_goods = wine
 hre = no

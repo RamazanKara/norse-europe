@@ -3,7 +3,7 @@
 owner = NAP
 controller = NAP
 culture = neapolitan 
-religion = new_norse 
+religion = coptic
 hre = no 
 base_tax = 2
 base_production = 2

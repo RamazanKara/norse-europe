@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN
 culture = slovak
-religion = new_norse
+religion = catholic
 capital = "Pressburg"
 trade_goods = grain
 hre = no

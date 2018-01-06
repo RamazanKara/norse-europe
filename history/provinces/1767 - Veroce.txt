@@ -3,7 +3,7 @@
 owner = HUN
 controller = HUN
 culture = croatian
-religion = new_norse
+religion = catholic
 capital = "Osijek"
 trade_goods = livestock
 hre = no

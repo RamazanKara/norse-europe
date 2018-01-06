@@ -3,7 +3,7 @@
 owner = POR
 controller = POR
 culture = portugese
-religion = new_norse
+religion = jewish
 capital = "Beja"
 trade_goods = livestock
 hre = no
