@@ -46,7 +46,7 @@ western_norse = {
 	norse_gaelic = {
 	}
 	
-	anglo-norse = {
+	anglo_norse = {
 	}
 
 }
