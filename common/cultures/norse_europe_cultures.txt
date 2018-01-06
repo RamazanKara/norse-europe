@@ -11,42 +11,90 @@
 western_norse = {
 	graphical_culture = westerngfx
 	
-	male_names = { "Ola Nordmann" }
+	male_names = { Ola Nordmann }
 
 	old_norman = {
-		primary =
+		primary = FRA
 		male_names = {
 			Jens Ola Håvard Magne Kjell
 		}
 	
-		{
-		female names = {
+		
+		female_names = {
 			Gerd Hege Sonja Ronja
 		}
-		{
-		dynasty names = { 
+		
+		dynasty_names = { 
 			"av Bergen" "av Sola" "av Sandvika"
 		}
-		}
-		}
-	old_norse= { 
 	}
-	primary=
-	male names = { 
+		
+	old_norse = {
+		primary = GEN
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 
+	norn = {
+		primary = NOR
 
-
-	norn= {
-		primary: FAR {}
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 
 	
 
 	norse_gaelic = {
+		primary = SCO
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 	
 	anglo_norse = {
+		primary = ENG
+
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 
 }
