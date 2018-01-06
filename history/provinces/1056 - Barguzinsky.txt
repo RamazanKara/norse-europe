@@ -21,6 +21,6 @@ discovered_by = BRT
 	owner = RUS
 	controller = RUS
 	religion = orthodox
-	culture = russian
+	culture = novgorodian
 } # Pyotr Beketov
 1678.1.1 = { add_core = RUS }

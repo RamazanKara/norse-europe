@@ -58,5 +58,5 @@ fort_15th = yes
 	owner = ARM
 	controller = ARM
 } # Shah Nadir is killed, local khanates emerged
-1796.6.15 = { controller = RUS } # Overran by Russian troops
+1796.6.15 = { controller = RUS } # Overran by novgorodian troops
 1796.11.1 = { controller = ARM }

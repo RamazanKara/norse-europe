@@ -31,7 +31,7 @@ revolt_risk = 15
 1587.1.1 = { 
 	capital = "Tobolsk"
 	religion = orthodox
-	culture = russian 
+	culture = novgorodian 
 }
 1606.1.1 = { revolt_risk = 3 } # Rebellions
 1608.1.1 = { revolt_risk = 5 }

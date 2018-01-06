@@ -23,5 +23,5 @@ discovered_by = ottoman
 	controller = RUS
 	add_core = RUS 
 	remove_core = KAZ 
-} # Russian conquest of Kazan
-1616.4.5 = { culture = russian religion = orthodox capital = "Cheboksary" }
+} # novgorodian conquest of Kazan
+1616.4.5 = { culture = novgorodian religion = orthodox capital = "Cheboksary" }

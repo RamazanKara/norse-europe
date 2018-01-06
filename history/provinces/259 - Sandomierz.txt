@@ -51,4 +51,4 @@ discovered_by = ottoman
 1814.4.11 = {
 	owner = RUS
 	add_core = RUS
-} # Congress Poland, under Russian control
+} # Congress Poland, under novgorodian control

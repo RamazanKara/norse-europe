@@ -1,7 +1,7 @@
 #155 - Békés
 
-owner = HUN
-controller = HUN
+owner = PAP
+controller = PAP
 culture = hungarian
 religion = catholic
 capital = "Gyula"

@@ -1,7 +1,7 @@
 # - Umbria
 
-owner = PAP
-controller = PAP
+owner = NAP
+controller = NAP
 culture = umbrian 
 religion = catholic 
 hre = no

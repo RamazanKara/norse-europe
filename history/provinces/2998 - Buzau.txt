@@ -43,5 +43,5 @@ discovered_by = ottoman
 } # The Ottomans regained Wallachia
 1789.1.1 = { controller = HAB } # Occupied by Austrian troops
 1791.8.4  = { controller = WAL } # Treaty of Sistova
-1806.1.1 = { controller = RUS } # Occupied by Russian troops
+1806.1.1 = { controller = RUS } # Occupied by novgorodian troops
 1812.5.28 = { controller = WAL } # Treaty of Bucharest

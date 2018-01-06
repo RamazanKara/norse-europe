@@ -2,7 +2,7 @@
 
 owner = MOS # was part of Ustyug principality, annexed by Muscovy in 1474
 controller = MOS
-culture = russian 
+culture = novgorodian 
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 2

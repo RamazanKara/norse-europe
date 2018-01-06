@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "Königsberg"
-culture = prussian
+culture = pnovgorodian
 religion = new_norse
 trade_goods = gems #Amber
 hre = no
@@ -50,4 +50,4 @@ discovered_by = ottoman
 1750.1.1 = { base_manpower = 4 base_tax = 8 
 base_production = 8 }
 1758.1.22 = { controller = RUS } # Occupied by Russia
-1762.5.5 = { controller = PRU } # Russians withdraw
+1762.5.5 = { controller = PRU } # novgorodians withdraw

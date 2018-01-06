@@ -24,7 +24,7 @@ discovered_by = ottoman
 1520.1.1 = { } # Magdeburger Dom, the most important Gothic cathedral in eastern Germany
 
 1524.1.1 = { religion = protestant }
-1650.1.1 = { culture = prussian }
+1650.1.1 = { culture = pnovgorodian }
 1701.1.18 = {
 	owner = PRU
 	controller = PRU

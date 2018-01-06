@@ -56,4 +56,4 @@ discovered_by = ottoman
 1814.4.11 = {
 	owner = RUS
 	add_core = RUS
-} # Napoleon abdicates. Congress Poland, under Russian control after the Congress of Vienna
+} # Napoleon abdicates. Congress Poland, under novgorodian control after the Congress of Vienna

@@ -1,7 +1,7 @@
 #119 - Ancona
 
-owner = PAP
-controller = PAP
+owner = NAP
+controller = NAP
 culture = umbrian 
 religion = orthodox
 hre = no 

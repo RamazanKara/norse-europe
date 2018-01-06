@@ -1,9 +1,9 @@
 #118 - Roma
 
-owner = PAP
-controller = PAP
+owner = BYZ
+controller = BYZ
 culture = umbrian 
-religion = catholic
+religion = orthodox
 hre = no
 base_tax = 10 
 base_production = 10

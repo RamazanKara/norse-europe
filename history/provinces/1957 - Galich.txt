@@ -3,7 +3,7 @@
 owner = MOS
 controller = MOS
 capital = "Galich"
-culture = russian
+culture = novgorodian
 religion = orthodox
 trade_goods = salt
 hre = no

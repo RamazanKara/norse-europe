@@ -23,9 +23,9 @@ discovered_by = ottoman
 	controller = RUS
 	add_core = RUS
 	remove_core = KAZ 
-} # Russian conquest of Kazan
+} # novgorodian conquest of Kazan
 1648.1.1 = {
-	culture = russian
+	culture = novgorodian
 	religion = orthodox
 	capital = "Simbirsk" 
 } # Simbirsk founded as a strongpoint to defend Russia's southern front

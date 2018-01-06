@@ -48,4 +48,4 @@ discovered_by = ottoman
 	owner = PRU
 	controller = PRU
 	add_core = PRU
-} # Napoleon abdicates. Congress Poland, under Russian control after the Congress of Vienna
+} # Napoleon abdicates. Congress Poland, under novgorodian control after the Congress of Vienna

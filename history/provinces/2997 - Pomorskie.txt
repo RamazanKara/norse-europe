@@ -4,7 +4,7 @@ owner = TEU
 controller = TEU
 add_core = TEU
 capital = "Tuchel"
-culture = prussian
+culture = pnovgorodian
 religion = new_norse
 trade_goods = grain
 hre = no
@@ -51,7 +51,7 @@ discovered_by = ottoman
 1704.1.1 = { controller = SWE } # Under siege by Sweden
 1706.9.24 = { controller = PLC } # Treaty of Altranstadt
 1733.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # The war of Polish succession
-1734.6.30 = { controller = RUS } # Russian siege of Danzig
+1734.6.30 = { controller = RUS } # novgorodian siege of Danzig
 1735.10.3 = { revolt = {} controller = PLC } # War of Polish successio ends
 1772.2.17 = { owner = PRU controller = PRU add_core = PRU } # First partition of Poland
 1806.11.3  = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Polish uprising instigated by Napoleon
