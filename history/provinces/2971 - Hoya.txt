@@ -26,7 +26,7 @@ discovered_by = ottoman
 	add_core = HAN
 } # Duke Ernst August becomes Elector of Hannover
 1757.7.26 = { controller = FRA } # Battle of Hastenbeck, occupied by the French
-1757.11.5 = { controller = HAN } # Battle of Rossbach, the French are defeated by the Pnovgorodians
+1757.11.5 = { controller = HAN } # Battle of Rossbach, the French are defeated by the pommeranians
 1803.7.5 = { controller = FRA } # Occupied by French troops
 1805.12.15 = {
 	owner = PRU

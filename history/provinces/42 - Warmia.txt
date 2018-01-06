@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "Allenstein"
-culture = pnovgorodian
+culture = pommeranian
 religion = new_norse
 trade_goods = naval_supplies
 hre = no

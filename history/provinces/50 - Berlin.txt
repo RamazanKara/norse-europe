@@ -23,7 +23,7 @@ discovered_by = ottoman
 1539.1.1 = { religion = protestant }
 1594.1.1 = { fort_15th = no fort_16th = yes } #Spandau
 1648.1.1 = { fort_16th = no fort_17th = yes } 
-1650.1.1 = { culture = pnovgorodian } 
+1650.1.1 = { culture = pommeranian } 
 1701.1.18 = {
 	owner = PRU
 	controller = PRU

@@ -2,7 +2,7 @@
 
 owner = LIT
 controller = LIT
-culture = byelonovgorodian
+culture = byelorussian
 religion = new_norse
 hre = no
 trade_goods = livestock
