@@ -3,7 +3,7 @@
 owner = SHY
 controller = SHY
 culture = khazak
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Zhanibek"
 trade_goods = iron
 hre = no

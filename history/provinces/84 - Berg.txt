@@ -3,7 +3,7 @@
 owner = KLE #In reality Kleves and Berg are not united before 1510.
 controller = KLE
 add_core = KLE
-culture = hessian
+culture = saxon
 religion = new_norse
 trade_goods = cloth
 capital = "Düsseldorf"

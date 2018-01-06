@@ -3,7 +3,7 @@
 owner = MKL
 controller = MKL
 add_core = MKL
-culture = pommeranian
+culture = danish
 religion = new_norse
 hre = yes
 base_tax = 4 

@@ -3,7 +3,7 @@
 owner = KAZ
 controller = KAZ
 culture = kazani
-religion = sunni
+religion = tengri_pagan_reformed
 hre = no
 base_tax = 2 
 base_production = 2

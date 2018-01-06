@@ -2,7 +2,7 @@
 
 owner = BRE
 controller = BRE
-culture = hannoverian
+culture = danish
 religion = new_norse
 capital = "Bremen"
 trade_goods = fish

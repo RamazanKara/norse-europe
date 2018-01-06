@@ -3,7 +3,7 @@
 owner = SHY
 controller = SHY
 culture = siberian
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Qizil Tura"
 trade_goods = fur
 hre = no

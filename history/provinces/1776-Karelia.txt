@@ -3,7 +3,7 @@
 owner = NOV
 controller = NOV 
 capital = "Kem"
-culture = karelian
+culture = sapmi
 religion = orthodox
 add_core = NOV
 hre = no

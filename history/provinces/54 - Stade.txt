@@ -2,7 +2,7 @@
 
 owner = VER
 controller = VER
-culture = hannoverian
+culture = danish
 religion = new_norse
 capital = "Bremervörde"
 trade_goods = fish

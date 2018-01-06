@@ -3,7 +3,7 @@
 owner = NOG
 controller = NOG
 culture = nogaybak
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Buzuluk"
 trade_goods = iron
 hre = no

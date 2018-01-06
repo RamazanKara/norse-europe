@@ -3,7 +3,7 @@
 owner = NOG
 controller = NOG
 culture = khazak
-religion = sunni
+religion = tengri_pagan_reformed
 capital = "Tortkara"
 trade_goods = naval_supplies
 hre = no

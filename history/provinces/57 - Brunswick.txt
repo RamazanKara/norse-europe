@@ -2,7 +2,7 @@
 
 owner = BRU
 controller = BRU
-culture = hannoverian
+culture = saxon
 religion = new_norse
 capital = "Braunschweig"
 trade_goods = iron

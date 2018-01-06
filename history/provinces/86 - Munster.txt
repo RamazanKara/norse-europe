@@ -2,7 +2,7 @@
 
 owner = MUN
 controller = MUN
-culture = hannoverian
+culture = saxon
 religion = new_norse
 trade_goods = cloth
 capital = "Münster"

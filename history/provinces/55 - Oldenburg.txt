@@ -2,7 +2,7 @@
 
 owner = OLD
 controller = OLD
-culture = hannoverian
+culture = danish
 religion = new_norse
 capital = "Oldenburg"
 trade_goods = salt

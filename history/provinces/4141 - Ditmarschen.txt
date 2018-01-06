@@ -3,7 +3,7 @@
 owner = DTT
 controller = DTT
 add_core = DTT
-culture = hannoverian
+culture = danish
 religion = new_norse
 hre = yes
 base_tax = 2
