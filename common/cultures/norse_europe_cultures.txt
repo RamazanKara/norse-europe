@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+﻿# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 #
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
@@ -11,32 +11,93 @@
 western_norse = {
 	graphical_culture = westerngfx
 	
-	male_names = { "Ola Nordmann" }
+	male_names = { Ola Nordmann }
 
 	old_norman = {
-		primary =
+		primary = FRA
 		male_names = {
-			Jens Ola H�vard Magne Kjell
+			Jens Ola Håvard Magne Kjell
 		}
 	
-		{
-		female names = {
+		
+		female_names = {
 			Gerd Hege Sonja Ronja
 		}
-		{
-		dynasty names = { 
+		
+		dynasty_names = { 
 			"av Bergen" "av Sola" "av Sandvika"
 		}
+	}
+		
+	old_norse = {
+		primary = GEN
+		male_names = {
+			Jens Ola Håvard Magne Kjell
 		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
 		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
+<<<<<<< HEAD
 
 	norn= {
+=======
+	}
+
+	norn = {
+		primary = NOR
+
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
+>>>>>>> 78507bdf7296ccbb7f43507816062bb989f9f547
 	}
 
 	norse_gaelic = {
+		primary = SCO
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 	
 	anglo_norse = {
+		primary = ENG
+
+		male_names = {
+			Jens Ola Håvard Magne Kjell
+		}
+	
+		
+		female_names = {
+			Gerd Hege Sonja Ronja
+		}
+		
+		dynasty_names = { 
+			"av Bergen" "av Sola" "av Sandvika"
+		}
 	}
 	
 	icelandic = {
