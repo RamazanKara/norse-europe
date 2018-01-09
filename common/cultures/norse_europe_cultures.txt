@@ -1,4 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
+ï»¿# Do not change tags in here without changing every other reference to them.
 # If adding new groups or cultures, make sure they are unique.
 #
 # Union tags do not suffer from the 'same_culture_group' tax penalty.
@@ -16,7 +16,7 @@ western_norse = {
 	old_norman = {
 		primary = FRA
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Jens Ola HÃ¥vard Magne Kjell
 		}
 	
 		
@@ -32,7 +32,7 @@ western_norse = {
 	old_norse = {
 		primary = GEN
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Jens Ola HÃ¥vard Magne Kjell
 		}
 	
 		
@@ -49,7 +49,7 @@ western_norse = {
 		primary = NOR
 
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Jens Ola HÃ¥vard Magne Kjell
 		}
 	
 		
@@ -67,7 +67,7 @@ western_norse = {
 	norse_gaelic = {
 		primary = SCO
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Jens Ola HÃ¥vard Magne Kjell
 		}
 	
 		
@@ -84,7 +84,7 @@ western_norse = {
 		primary = ENG
 
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Jens Ola HÃ¥vard Magne Kjell
 		}
 	
 		

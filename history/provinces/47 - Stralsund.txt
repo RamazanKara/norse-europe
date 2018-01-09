@@ -1,8 +1,8 @@
 #47 - Stralsund
 
-owner = POM
-controller = POM
-add_core = POM
+owner = JOM
+controller = JOM
+add_core = JOM
 culture = danish
 religion = new_norse
 hre = yes
