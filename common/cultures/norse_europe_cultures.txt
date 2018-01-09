@@ -29,24 +29,70 @@ western_norse = {
 		}
 		}
 		}
-	old_norse= { 
-	}
-	primary=
-	male names = { 
-	}
-
-
 
 	norn= {
-		primary: FAR {}
 	}
-
-	
 
 	norse_gaelic = {
 	}
 	
 	anglo_norse = {
 	}
+	
+	icelandic = {
+	}
+	
+	greenlandic = {
+	}
+	
+	vinlandese = {	#uncolonized culture/ small tag
+	}
 
 }
+
+eastern_norse = { 
+	graphical culture = westerngfx
+	
+		norsk = {
+			}
+			
+		svensk = {
+			}
+		
+		gutnish = {
+			}
+		
+		rurikian = {
+			}
+		
+		novgorodian = { 
+			}
+			
+		finnish = {
+			}
+			
+		sami = {
+			}
+}
+
+southern_norse = {
+	graphical_culture = westerngfx
+	
+		dansk = {
+			}
+			
+		skånsk = {
+			}
+			
+		saksisk = {     #split into east and west saxon?
+			}
+		
+		svabisk = {
+		}
+		
+		moravian = {
+		}
+		
+}
+		
+
