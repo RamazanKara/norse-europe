@@ -1,9 +1,9 @@
-#Finnish Lappland - Rovaniemi
+#finsk Lappland - Rovaniemi
 
 owner = SWE
 controller = SWE
 add_core = SWE
-culture = finnish #Probably also a large samisk population.
+culture = finsk #Probably also a large samisk population.
 religion = new_norse
 hre = no
 base_tax = 1 

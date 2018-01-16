@@ -2,7 +2,7 @@
 
 owner = HUN
 controller = HUN 
-culture = ostrovisigothic
+culture = romanian
 religion = orthodox
 capital = "Huszt"
 trade_goods = naval_supplies

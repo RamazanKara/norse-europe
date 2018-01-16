@@ -2,7 +2,7 @@
 
 owner = CRI
 controller = CRI
-culture = varangian
+culture = ostrogothic
 religion = orthodox
 hre = no
 base_tax = 2

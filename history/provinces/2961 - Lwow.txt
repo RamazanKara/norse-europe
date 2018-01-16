@@ -3,7 +3,7 @@
 owner = POL
 controller = POL
 capital= "Lwów"
-culture = ostrovisigothic
+culture = ostrogothic
 religion = orthodox
 trade_goods = dyes #Polish cochineal
 hre = no

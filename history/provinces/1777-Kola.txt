@@ -3,7 +3,7 @@
 owner = NOV
 controller = NOV 
 capital = "Kola"
-culture = sapmi
+culture = samisk
 religion = orthodox
 hre = no
 add_core = NOV

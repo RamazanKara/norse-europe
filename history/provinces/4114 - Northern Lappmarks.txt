@@ -1,7 +1,7 @@
 #Lapland, the far north wastelands.
 
 capital = "Jokkmokk"
-culture = sapmi
+culture = samisk
 religion = new_norse
 hre = no
 base_tax = 1 

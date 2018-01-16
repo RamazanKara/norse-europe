@@ -2,8 +2,8 @@
 
 owner = CRI
 controller = CRI
-culture = crimean
-religion = sunni
+culture = ostrogothic
+religion = new_norse
 hre = no
 base_tax = 1
 base_production = 1

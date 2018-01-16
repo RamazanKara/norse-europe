@@ -13,8 +13,7 @@ western_norse = {
 	
 	male_names = { Ola Nordmann }
 
-	old_nordman = {
-		}
+	
 		
 	norn = {
 		primary = 
@@ -33,6 +32,9 @@ western_norse = {
 		}
 
 	}
+	
+	old_nordman = {
+		}
 
 	norse_gaelic = {
 		primary = SCO
@@ -139,4 +141,7 @@ gotisk = {
 			}
 			
 		italogothic = {
+			}
+			
+		vandal = {
 			}

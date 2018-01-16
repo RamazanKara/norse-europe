@@ -3,7 +3,7 @@
 owner = MAZ
 controller = MAZ
 capital= "Belz"
-culture = ostrovisigothic
+culture = ostrogothic
 religion = orthodox
 trade_goods = livestock
 hre = no
