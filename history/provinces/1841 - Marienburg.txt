@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "Marienburg"
-culture = pommeranian
+culture = preussisk
 religion = new_norse
 trade_goods = naval_supplies
 hre = no

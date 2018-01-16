@@ -3,7 +3,7 @@
 owner = SWE
 controller = SWE
 add_core = SWE
-culture = swedish
+culture = svensk
 religion = new_norse
 capital = "Mariehamn"
 is_city = yes
@@ -27,7 +27,7 @@ discovered_by = ottoman
 1718.1.1 = { controller = SWE } # The Peace of Nystad
 1742.10.15 = { controller = RUS } # The War of the Hats-Estimated date
 1743.8.7 = { controller = SWE } # The Peace of Åbo
-1808.3.28 = { controller = RUS } # Overrun by novgorodian troops
+1808.3.28 = { controller = RUS } # Overrun by rurikian troops
 1809.9.17 = {
 	owner = RUS
 	add_core = RUS

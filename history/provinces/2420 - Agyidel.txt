@@ -32,5 +32,5 @@ discovered_by = nomad_group
 	controller = RUS
 	add_core = RUS
 	remove_core = KAZ 
-} # novgorodian conquest of Kazan
-1735.8.31 = { culture = novgorodian religion = orthodox capital = "Orenburg" remove_core = BSH }
+} # rurikian conquest of Kazan
+1735.8.31 = { culture = rurikian religion = orthodox capital = "Orenburg" remove_core = BSH }

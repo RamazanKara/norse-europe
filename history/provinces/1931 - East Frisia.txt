@@ -2,7 +2,7 @@
 
 owner = EFR
 controller = EFR
-culture = normand
+culture = old_nordman
 religion = new_norse
 capital = "Emden"
 trade_goods = salt

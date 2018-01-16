@@ -1,7 +1,7 @@
 #1073 - Berezov
 
 culture = samoyed
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = tengri_pagan_reformed #samisk Shamanism
 capital = "Berezov"
 trade_goods = unknown
 hre = no
@@ -24,7 +24,7 @@ discovered_by = nomad_group
 	controller = RUS
 	add_core = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 	trade_goods = salt
 	is_city = yes 
 } # Berezov founded

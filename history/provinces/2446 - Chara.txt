@@ -22,6 +22,6 @@ discovered_by = BRT
 	owner = RUS
 	controller = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 }
 1637.1.1 = { add_core = RUS }

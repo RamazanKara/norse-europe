@@ -3,7 +3,7 @@
 owner = MEM
 controller = MEM
 add_core = MEM
-culture = swabian
+culture = svabisk
 religion = new_norse
 hre = yes
 base_tax = 5

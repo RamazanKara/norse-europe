@@ -2,7 +2,7 @@
 
 owner = CRI
 controller = CRI
-culture = ruthenian
+culture = ostrovisigothic
 religion = sunni
 hre = no
 base_tax = 3

@@ -2,7 +2,7 @@
 
 owner = POR
 controller = POR
-culture = aztec
+culture = aztek
 religion = nahuatl
 capital = "Viseu"
 trade_goods = wine

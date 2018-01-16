@@ -3,7 +3,7 @@
 owner = LIV
 controller = LIV
 add_core = LIV
-culture = pommeranian
+culture = preussisk
 religion = new_norse
 hre = no
 base_tax = 2 
@@ -30,11 +30,11 @@ discovered_by = ottoman
 1625.9.24 = { controller = SWE } # 2nd Polish War-Captured by GIIA
 1629.9.16 = { controller = KUR } # The Armistice of Altmark
 1655.8.5 = { controller = SWE } # 3rd Polish War-Captured by Magnus Gabriel de la Gardie
-1656.6.15 = { controller = KUR } # 3rd Polish War-Swedish withdrawal
+1656.6.15 = { controller = KUR } # 3rd Polish War-svensk withdrawal
 1658.9.29 = { controller = SWE } # 3rd Polish War-Captured by Robert Douglas
 1659.7.23 = { controller = KUR } # 3rd Polish War-Captured by Samuel Komorowski
 1701.7.20 = { controller = SWE } # The Great Nordic War-Captured by Karl XII
-1705.8.25 = { controller = KUR } # The Great Nordic War-Captured by novgorodians
+1705.8.25 = { controller = KUR } # The Great Nordic War-Captured by rurikians
 1795.10.24 = {
 	owner = RUS
 	controller = RUS

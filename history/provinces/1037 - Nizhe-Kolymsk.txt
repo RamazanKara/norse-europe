@@ -29,6 +29,6 @@ discovered_by = KMC
 	owner = RUS
 	controller = RUS
 	add_core = RUS
-	culture = novgorodian
+	culture = rurikian
 	religion = orthodox 
 }

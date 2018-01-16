@@ -3,7 +3,7 @@
 add_core = SWE
 owner = SWE
 controller = SWE
-culture = swedish
+culture = svensk
 religion = new_norse
 hre = no
 base_tax = 5 
@@ -28,7 +28,7 @@ discovered_by = ottoman
 1438.10.1 = { revolt = { type = pretender_rebels size = 1 leader = "Karl Knutsson Bonde" } controller = REB } # Unclear date
 1440.9.1 = { revolt = {} controller = SWE } # Christopher III elected Union King
 1448.6.20 = { revolt = {} controller = SWE } # Karl VIII is elected king of Sweden
-1501.8.1 = { controller = DAN } # Danish loyalists at Swedish DoW and breaking of vassalage
+1501.8.1 = { controller = DAN } # dansk loyalists at svensk DoW and breaking of vassalage
 1502.5.9 = { controller = SWE } # Retaken by Sweden
 1523.6.7 = { base_manpower = 4 } # Kgl.Drabantkåren/Svea Livgarde
 1527.6.1 = {

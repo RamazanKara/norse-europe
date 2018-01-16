@@ -1,7 +1,7 @@
 #118 - Roma
 
-owner = BYZ
-controller = BYZ
+owner = RRP
+controller = RRP
 culture = umbrian 
 religion = orthodox
 hre = no

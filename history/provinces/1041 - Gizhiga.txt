@@ -30,6 +30,6 @@ discovered_by = KMC
 	owner = RUS
 	controller = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 } # Conquered by Russia
 1757.1.1 = { add_core = RUS }

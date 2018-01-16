@@ -2,7 +2,7 @@
 
 owner = VER
 controller = VER
-culture = danish
+culture = dansk
 religion = new_norse
 capital = "Bremervörde"
 trade_goods = fish
@@ -22,7 +22,7 @@ discovered_by = ottoman
 
 
 1529.1.1 = { religion = protestant }
-1648.10.24 = { owner = SWE controller = SWE add_core = SWE } # Swedish dominion, Peace of Westphalia
+1648.10.24 = { owner = SWE controller = SWE add_core = SWE } # svensk dominion, Peace of Westphalia
 1719.9.30 = {
 	owner = HAN
 	controller = HAN

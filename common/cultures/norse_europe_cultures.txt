@@ -13,44 +13,11 @@ western_norse = {
 	
 	male_names = { Ola Nordmann }
 
-	old_norman = {
-		primary = FRA
-		male_names = {
-			Jens Ola Håvard Magne Kjell
-		}
-	
-		
-		female_names = {
-			Gerd Hege Sonja Ronja
+	old_nordman = {
 		}
 		
-		dynasty_names = { 
-			"av Bergen" "av Sola" "av Sandvika"
-		}
-	}
-		
-	old_norse = {
-		primary = GEN
-		male_names = {
-			Jens Ola Håvard Magne Kjell
-		}
-	
-		
-		female_names = {
-			Gerd Hege Sonja Ronja
-		}
-		
-		dynasty_names = { 
-			"av Bergen" "av Sola" "av Sandvika"
-		}
-<<<<<<< HEAD
-
-	norn= {
-=======
-	}
-
 	norn = {
-		primary = NOR
+		primary = 
 
 		male_names = {
 			Jens Ola Håvard Magne Kjell
@@ -64,7 +31,7 @@ western_norse = {
 		dynasty_names = { 
 			"av Bergen" "av Sola" "av Sandvika"
 		}
->>>>>>> 78507bdf7296ccbb7f43507816062bb989f9f547
+
 	}
 
 	norse_gaelic = {
@@ -106,7 +73,7 @@ western_norse = {
 	greenlandic = {
 	}
 	
-	vinlandese = {	#uncolonized culture/ small tag
+	vinlandese = {	
 	}
 
 }
@@ -132,7 +99,13 @@ eastern_norse = {
 		finnish = {
 			}
 			
-		sami = {
+		samisk = {
+			}
+		
+		ostrogothic = {
+			}
+		
+		varangian = {
 			}
 }
 
@@ -142,7 +115,7 @@ southern_norse = {
 		dansk = {
 			}
 			
-		sk�nsk = {
+		skansk = {
 			}
 			
 		saksisk = {     #split into east and west saxon?
@@ -154,6 +127,16 @@ southern_norse = {
 		moravian = {
 		}
 		
+		preussisk = {
+			}
+		
 }
 		
-
+gotisk = {
+	graphical_culture = westerngfx
+		
+		visigothic = {
+			}
+			
+		italogothic = {
+			}

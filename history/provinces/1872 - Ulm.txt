@@ -2,7 +2,7 @@
 owner = ULM
 controller = ULM
 add_core = ULM
-culture = swabian
+culture = svabisk
 religion = new_norse
 base_tax = 7 
 base_production = 7

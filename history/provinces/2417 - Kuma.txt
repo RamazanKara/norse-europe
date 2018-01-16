@@ -33,7 +33,7 @@ discovered_by = nomad_group
 	controller = NOG
 	add_core = NOG
 	remove_core = AST 
-} # Nogais migrate to the area after novgorodian conquest of Astrakhan
+} # Nogais migrate to the area after rurikian conquest of Astrakhan
 1634.1.1 = {
 	owner = RUS
 	controller = RUS
@@ -41,4 +41,4 @@ discovered_by = nomad_group
 	remove_core = NOG
 	culture = mongol
 	religion = buddhism
-} # Nogais driven out by Buddhist Kalmuks, novgorodian protectorate
+} # Nogais driven out by Buddhist Kalmuks, rurikian protectorate

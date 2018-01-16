@@ -3,7 +3,7 @@
 add_core = DAN
 owner = DAN
 controller = DAN
-culture = danish
+culture = skansk
 religion = new_norse
 hre = no
 base_tax = 7
@@ -43,4 +43,4 @@ discovered_by = ottoman
 	fort_16th = no
 	fort_17th = yes
 } #(see Blekinge)
-1722.1.1 = { culture = swedish } # The backbone of danishness is finally broken
+1722.1.1 = { culture = svensk } # The backbone of danskness is finally broken

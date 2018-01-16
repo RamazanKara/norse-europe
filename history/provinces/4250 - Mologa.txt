@@ -2,7 +2,7 @@
 
 owner = YAR
 controller = YAR
-culture = novgorodian
+culture = rurikian
 religion = orthodox
 hre = no 
 base_tax = 2

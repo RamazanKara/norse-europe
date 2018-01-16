@@ -5,7 +5,7 @@ controller = TEU
 add_core = TEU
 add_core = DNZ
 capital = "Danzig"
-culture = pommeranian
+culture = preussisk
 religion = new_norse
 trade_goods = grain
 hre = no
@@ -58,7 +58,7 @@ add_permanent_province_modifier = {
 1706.9.24 = { controller = PLC } # Treaty of Altranstadt
  # Plague
 1733.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # The war of Polish succession
-1734.6.30 = { controller = RUS } # novgorodian siege of Danzig
+1734.6.30 = { controller = RUS } # rurikian siege of Danzig
 1735.10.3 = { revolt = {} controller = PLC } # War of Polish successio ends
 1793.9.25 = { owner = PRU controller = PRU } # Occupied and later on annexed by Prussia
 1794.3.24 = { unrest = 5 } # Kosciuszko uprising

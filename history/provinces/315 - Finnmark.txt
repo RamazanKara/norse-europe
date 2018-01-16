@@ -17,7 +17,7 @@ discovered_by = eastern
 discovered_by = western
 
 
-1450.1.1 = { culture = norwegian }
+1450.1.1 = { culture = norsk }
 1536.1.1 = { religion = protestant owner = DAN controller = DAN add_core = DAN }
 1814.1.14 = {
 	owner = SWE

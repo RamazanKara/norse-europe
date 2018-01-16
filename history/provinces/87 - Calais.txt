@@ -3,7 +3,7 @@
 owner = ENG
 controller = ENG 
 capital = "Calais"
-culture = normand
+culture = old_nordman
 religion = new_norse
 hre = no
 base_tax = 5 

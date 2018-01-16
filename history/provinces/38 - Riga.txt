@@ -3,7 +3,7 @@
 owner = RIG
 controller = RIG
 add_core = RIG
-culture = pommeranian
+culture = preussisk
 religion = new_norse
 hre = no
 base_tax = 5 

@@ -2,7 +2,7 @@
 
 owner = GEN
 controller = GEN
-culture = ruthenian
+culture = ostrovisigothic
 religion = sunni
 hre = no
 base_tax = 3

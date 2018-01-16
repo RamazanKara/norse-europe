@@ -1,7 +1,7 @@
 #1072 - Obdorsk
 
 culture = samoyed
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = tengri_pagan_reformed #samisk Shamanism
 capital = "Obdorsk"
 trade_goods = unknown
 hre = no
@@ -22,7 +22,7 @@ native_hostileness = 3
 	controller = RUS
 	add_core = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 	trade_goods = fish
 	is_city = yes
 }

@@ -2,7 +2,7 @@
 
 owner = ANH
 controller = ANH 
-culture = saxon
+culture = saksisk
 religion = new_norse
 capital = "Dessau"
 trade_goods = wool

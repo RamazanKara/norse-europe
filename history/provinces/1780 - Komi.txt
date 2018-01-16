@@ -1,7 +1,7 @@
 #1780 - Komi
 
 culture = samoyed
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = tengri_pagan_reformed #samisk Shamanism
 hre = no
 base_tax = 2 
 base_production = 2
@@ -23,7 +23,7 @@ discovered_by = nomad_group
 	controller = RUS
 	add_core = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 	is_city = yes
 }
 1598.1.7 = { unrest = 5 } # "Time of troubles"

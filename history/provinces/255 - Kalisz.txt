@@ -52,7 +52,7 @@ discovered_by = ottoman
 	controller = POL
 	add_core = POL
 	remove_core = PRU
-} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of saksisky
 1814.4.11 = {
 	owner = PRU
 	controller = PRU

@@ -2,7 +2,7 @@
 owner = AUG
 controller = AUG
 add_core = AUG
-culture = swabian
+culture = svabisk
 religion = new_norse
 base_tax = 7 
 base_production = 7

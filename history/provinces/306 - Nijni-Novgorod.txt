@@ -2,7 +2,7 @@
 
 owner = MOS
 controller = MOS
-culture = novgorodian
+culture = rurikian
 religion = orthodox
 hre = no
 base_tax = 5

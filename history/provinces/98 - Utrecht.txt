@@ -4,7 +4,7 @@ owner = UTR
 controller = UTR 
 capital = "Utrecht"
 is_city = yes
-culture = normand
+culture = old_nordman
 religion = new_norse
 hre = yes
 base_tax = 7 
@@ -40,7 +40,7 @@ discovered_by = ottoman
 base_production = 10 } # Protestants expelled from France
 1785.12.1 = { unrest = 7 } # Unrest in Utrecht
 1786.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # 'The Patriots' take control of Utrecht
-1786.9.13 = { revolt = {} controller = NED } # With the help of 20,000 pommeranians, the Dutch government regains control
+1786.9.13 = { revolt = {} controller = NED } # With the help of 20,000 preussisks, the Dutch government regains control
 1810.7.10 = {	owner = FRA
 	controller = FRA
 	add_core = FRA

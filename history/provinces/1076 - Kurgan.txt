@@ -29,5 +29,5 @@ revolt_risk = 15
 	add_core = RUS
 	remove_core = SIB 
 } # Yermak Timofeevich
-1662.1.1 = { capital = "Tsaryovo Gorodische" culture = novgorodian religion = orthodox }
+1662.1.1 = { capital = "Tsaryovo Gorodische" culture = rurikian religion = orthodox }
 1782.1.1 = { capital = "Kurgan" }

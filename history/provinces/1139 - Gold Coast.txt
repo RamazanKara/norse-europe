@@ -27,8 +27,8 @@ add_permanent_province_modifier = {
 
 1550.1.1 = { capital = "Sao Francisco Xavier" owner = POR controller = POR add_core = POR culture = portugese religion = new_norse trade_goods = gold is_city = yes } #Portuguese establish first trade post
 1610.1.1 = { unrest = 4 native_size = 90 } #Ewe migrations in wake of turmoil in their homeland
-1652.1.1 = { owner = SWE controller = SWE add_core = SWE remove_core = POR capital = "Fort Christianborg" culture = swedish religion = protestant } #Swedeish takeover of the colony
-1657.1.1 = { owner = DAN controller = DAN add_core = DAN culture = danish } #Danish takeover
+1652.1.1 = { owner = SWE controller = SWE add_core = SWE remove_core = POR capital = "Fort Christianborg" culture = svensk religion = protestant } #Swedeish takeover of the colony
+1657.1.1 = { owner = DAN controller = DAN add_core = DAN culture = dansk } #dansk takeover
 1660.1.1 = { unrest = 4 } #Warfare between Dankyira and Adansi disrupts region
 1670.1.1 = { trade_goods = slaves } #Rise of slave trade in late 17th C
 1680.1.1 = { unrest = 4 native_size = 120 } #Wave of Akan migrations towards coast with expansio of Denyinka state

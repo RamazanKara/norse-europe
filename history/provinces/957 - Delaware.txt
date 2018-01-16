@@ -24,11 +24,11 @@ discovered_by = north_american
 	owner = SWE
 	controller = SWE
 	add_core = SWE
-	culture = swedish
+	culture = svensk
 	religion = protestant
 	is_city = yes
 	trade_goods = tobacco
-} # New Sweden, small Swedish settlement founded by Peter Minuit. Fort Christina
+} # New Sweden, small svensk settlement founded by Peter Minuit. Fort Christina
 1655.9.15 = {
 	owner = NED
 	controller = NED

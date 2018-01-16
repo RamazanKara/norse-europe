@@ -2,7 +2,7 @@
 
 owner = SAX
 controller = SAX 
-culture = saxon
+culture = saksisk
 religion = new_norse
 capital = "Leipzig"
 trade_goods = wool

@@ -3,7 +3,7 @@
 owner = MOS
 controller = MOS
 capital = "Yur"
-culture = novgorodian
+culture = rurikian
 religion = tengri_pagan_reformed
 trade_goods = grain
 hre = no

@@ -26,7 +26,7 @@ discovered_by = eastern
 	controller = DAN
 	add_core = DAN
 	remove_core = LIV
-} # Danish purchase
+} # dansk purchase
 1568.7.25 = { controller = SWE } # Nordic Seven-year War
 1570.12.13 = { controller = DAN } # The Peace of Stettin
 1645.8.13 = {

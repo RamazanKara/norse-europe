@@ -50,7 +50,7 @@ discovered_by = ottoman
 1735.1.1 = { revolt = {} controller = PLC }
  # Several waves of rural & Dutch settlers
 1768.2.28 = { unrest = 8 } # Uprisings against the Polish king & Russia
-1772.8.18 = { unrest = 0 } # Uprisings suppressed by novgorodian troops
+1772.8.18 = { unrest = 0 } # Uprisings suppressed by rurikian troops
 1794.3.24 = { unrest = 5 } # Kosciuszko uprising
 1794.11.5 = { unrest = 0 } # Kosciuszko is captured
 1795.10.24 = { owner = PRU controller = PRU add_core = PRU } # Third partition of Poland
@@ -61,9 +61,9 @@ discovered_by = ottoman
 	controller = POL
 	add_core = POL
 	remove_core = PRU
-} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of saksisky
 1812.12.12 = { controller = RUS }
 1814.4.11 = {
 	owner = RUS
 	add_core = RUS
-} # Congress Poland, under novgorodian control after the Congress of Vienna
+} # Congress Poland, under rurikian control after the Congress of Vienna

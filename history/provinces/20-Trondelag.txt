@@ -3,7 +3,7 @@
 owner = NOR
 controller = NOR
 add_core = NOR
-culture = norwegian
+culture = norsk
 religion = new_norse
 hre = no
 base_tax = 3
@@ -24,7 +24,7 @@ fort_15th = yes
 1564.3.3 = { controller = SWE } # Nordic Seven-years War
 1564.5.21 = { controller = DAN } # Nordic Seven-years War
 1658.2.26 = { owner = SWE controller = SWE add_core = SWE } # The Peace of Roskilde
-1658.12.1 = { controller = DAN } # Karl X Gustavs Second Danish War
+1658.12.1 = { controller = DAN } # Karl X Gustavs Second dansk War
 1660.5.27 = { owner = DAN } # The Peace of Copenhagen
 1814.1.14 = {
 	owner = SWE

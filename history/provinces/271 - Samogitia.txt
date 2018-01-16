@@ -30,7 +30,7 @@ discovered_by = ottoman
 	controller = PLC
 	add_core = PLC
 } # Union of Lublin
-1701.1.1 = { controller = SWE } # Swedish occupation
+1701.1.1 = { controller = SWE } # svensk occupation
 1706.9.24 = { controller = PLC } # Treaty of Altranstadt
  # Great plague, lost almost two thirds of its population
 1794.3.24 = { unrest = 6 } # Kosciuszko uprising

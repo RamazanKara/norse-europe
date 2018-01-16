@@ -31,6 +31,6 @@ unrest = 15
 1586.1.1 = { capital = "Tyumen"} # Tyumen is founded
 1606.1.1 = { unrest = 3 } # Rebellions against Russia
 1608.1.1 = { unrest = 5 }
-1610.1.1 = { unrest = 2 culture = novgorodian religion = orthodox }
+1610.1.1 = { unrest = 2 culture = rurikian religion = orthodox }
 1616.1.1 = { unrest = 6 }
 1620.1.1 = { unrest = 0 remove_core = SIB }

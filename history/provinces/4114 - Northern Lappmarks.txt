@@ -22,7 +22,7 @@ discovered_by = western
 	add_local_autonomy = 90
 	trade_goods = fur
 }
-1640.1.2 = { culture = swedish }
+1640.1.2 = { culture = svensk }
 1640.1.2 = { religion = protestant }
 1650.1.1 = { trade_goods = iron }
 1652.1.1 = { capital = "Kiruna" }

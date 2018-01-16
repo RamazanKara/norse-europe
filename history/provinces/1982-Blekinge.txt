@@ -3,7 +3,7 @@
 add_core = DAN
 owner = DAN
 controller = DAN
-culture = danish
+culture = skansk
 religion = new_norse
 hre = no
 base_tax = 2 
@@ -26,6 +26,6 @@ discovered_by = ottoman
 1658.2.26 = { controller = SWE owner = SWE add_core = SWE  } # The Peace of Roskilde
 1680.1.1 = { 
 	capital = "Karlskrona" 
-	culture = swedish
+	culture = svensk
 	shipyard = yes		# Karlskrona issued as naval base by KXI
 }

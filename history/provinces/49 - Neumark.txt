@@ -3,7 +3,7 @@
 owner = BRA
 controller = BRA
 #add_core = BRA
-culture = saxon
+culture = saksisk
 religion = new_norse
 hre = yes
 base_tax = 3 
@@ -21,7 +21,7 @@ add_local_autonomy = 50 #Administrative misshandling, robber barons, privileged 
 1402.1.1 = { owner = TEU controller = TEU add_core = TEU }
 1453.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = TEU }
 1536.1.1 = { religion = protestant }
-1650.1.1 = { culture = pommeranian }
+1650.1.1 = { culture = preussisk }
 1701.1.18 = {
 	owner = PRU
 	controller = PRU

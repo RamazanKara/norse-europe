@@ -2,7 +2,7 @@
 
 owner = NOR
 controller = NOR
-culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
+culture = norsk # They were actually Jämts - the unique blend of svensk, norsk and local tendencies
 religion = new_norse
 hre = no
 base_tax = 1 
@@ -31,7 +31,7 @@ discovered_by = western
 1644.2.1 = { controller = SWE } # Torstenssons War-Captured by Herman Flemming (Unknown date)
 1644.8.1 = { controller = DAN } # Torstenssons War-Captured by Hannibal Sehested
 1645.8.13 = { owner = SWE controller = SWE add_core = SWE } # The Peace of Brömsebro
-1657.11.25 = { controller = DAN } # Karl X Gustavs First Danish War-Captured by Bielke
+1657.11.25 = { controller = DAN } # Karl X Gustavs First dansk War-Captured by Bielke
 1658.2.26 = { controller = SWE } # The Peace of Roskilde
-1690.1.1 = { culture = swedish } # date estimated
+1690.1.1 = { culture = svensk } # date estimated
 1786.10.23 = { capital = "Östersund" }

@@ -4,7 +4,7 @@ owner = FRI
 controller = FRI
 capital = "Groningen"
 is_city = yes
-culture = normand
+culture = old_nordman
 religion = new_norse
 hre = yes
 base_tax = 6 
@@ -21,7 +21,7 @@ discovered_by = ottoman
 1445.1.1 = { add_core = BUR }
 1473.2.23 = { owner = BUR controller = BUR } # Charles the Bold annexes Friesland
 1477.1.5 = { owner = FRI controller = FRI add_core = HAB remove_core = BUR } # Charles the Bold dies and Friesland is re-established
-1498.1.1 = { owner = SAX controller = SAX } # Saxony controls Friesland
+1498.1.1 = { owner = SAX controller = SAX } # saksisky controls Friesland
 1515.5.15 = { owner = HAB  # Sold to Karl von Habsburg (future Charles I of Spain and Charles V HRE)
 	controller = REB } # 'Kings' Pier Gerlofs Donia and Wijerd Jelckama
 1519.1.12 = { owner = SPA add_core = SPA remove_core = HAB } # Unification of Spain under Charles

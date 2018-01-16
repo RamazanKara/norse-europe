@@ -4,7 +4,7 @@ owner = BOH
 controller = BOH
 add_core = BOH
 capital = "Bautzen"
-culture = saxon
+culture = saksisk
 religion = new_norse
 trade_goods = cloth
 hre = yes
@@ -54,7 +54,7 @@ discovered_by = ottoman
 	owner = SAX
 	add_core = SAX
 	remove_core = BOH 
-}# Tilly beats the Winterking, but HAB gives the province to Saxony as security against a loan.
+}# Tilly beats the Winterking, but HAB gives the province to saksisky as security against a loan.
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1815.6.9 = {
 	owner = PRU

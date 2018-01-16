@@ -31,7 +31,7 @@ discovered_by = ottoman
 } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war, Polish succession
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
-1655.1.1 = { controller = SWE } # Swedish invasion
+1655.1.1 = { controller = SWE } # svensk invasion
 1660.1.1 = { controller = PLC } # End of Northern war
 1733.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # The war of the Polish succession
 1735.1.1 = { revolt = {} controller = PLC }
@@ -43,7 +43,7 @@ discovered_by = ottoman
 	controller = POL
 	add_core = POL
 	remove_core = PRU
-} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
+} # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of saksisky
 1813.3.17 = { controller = PRU }
 1814.4.11 = {
 	owner = PRU

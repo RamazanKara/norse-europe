@@ -3,7 +3,7 @@
 owner = KAZ
 controller = KAZ
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = tengri_pagan_reformed #samisk Shamanism
 hre = no
 base_tax = 4
 base_production = 4
@@ -21,6 +21,6 @@ discovered_by = western
 discovered_by = nomad_group
 
 
-1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # novgorodian conquest of Kazan
-1553.1.1 = { culture = novgorodian religion = orthodox } # Most Tatars were christianized or killed
+1552.10.2 = { owner = RUS controller = RUS add_core = RUS remove_core = KAZ } # rurikian conquest of Kazan
+1553.1.1 = { culture = rurikian religion = orthodox } # Most Tatars were christianized or killed
 1720.3.20 = { capital = "Perm" } # Peter the Great founds city

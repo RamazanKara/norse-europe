@@ -3,7 +3,7 @@
 owner = HAM
 controller = HAM
 add_core = HAM
-culture = danish
+culture = dansk
 religion = new_norse
 hre = yes
 base_tax = 7

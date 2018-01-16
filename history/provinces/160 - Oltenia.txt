@@ -33,8 +33,8 @@ discovered_by = ottoman
 	controller = HAB
 	add_core = HAB
 } # Treaty of Passarowitz, Banat & Oltenia passed to the Habsburg empire
-1739.1.1 = { owner = WAL controller = WAL remove_core = HAB } # Returned to Wallachia after the novgorodian-Austrian-Turkish war
+1739.1.1 = { owner = WAL controller = WAL remove_core = HAB } # Returned to Wallachia after the rurikian-Austrian-Turkish war
 1789.1.1 = { controller = HAB } # Occupied by Austrian troops
 1791.8.4 = { controller = WAL } # Treaty of Sistova
-1806.1.1 = { controller = RUS } # Occupied by novgorodian troops
+1806.1.1 = { controller = RUS } # Occupied by rurikian troops
 1812.5.28 = { controller = WAL } # Treaty of Bucharest

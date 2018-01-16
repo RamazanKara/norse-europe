@@ -3,7 +3,7 @@
 owner = TEU
 controller = TEU
 capital = "Ortelsburg"
-culture = pommeranian
+culture = preussisk
 religion = new_norse
 trade_goods = naval_supplies
 hre = no
@@ -38,4 +38,4 @@ discovered_by = ottoman
 	remove_core = BRA
 } # Kingdom of Prussia
 1758.1.22 = { controller = RUS } # Occupied by Russia
-1762.5.5 = { controller = PRU } # novgorodians withdraw
+1762.5.5 = { controller = PRU } # rurikians withdraw

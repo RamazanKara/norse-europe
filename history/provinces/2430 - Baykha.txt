@@ -1,7 +1,7 @@
 #2430 - Baykha
 
 culture = samoyed
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = tengri_pagan_reformed #samisk Shamanism
 capital = "Troitskiy"
 trade_goods = unknown
 hre = no
@@ -17,7 +17,7 @@ native_hostileness = 3
 	owner = RUS
 	controller = RUS
 	religion = orthodox
-	culture = novgorodian
+	culture = rurikian
 }
 1628.1.1 = {
 	add_core = RUS
