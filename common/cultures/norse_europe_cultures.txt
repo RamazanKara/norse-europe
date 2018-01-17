@@ -16,28 +16,40 @@ western_norse = {
 	
 		
 	norn = {
-		primary = 
 
 		male_names = {
-			Jens Ola Håvard Magne Kjell
+			Temp
 		}
 	
 		
 		female_names = {
-			Gerd Hege Sonja Ronja
+			Temp
 		}
 		
 		dynasty_names = { 
-			"av Bergen" "av Sola" "av Sandvika"
+			"temp" 
 		}
 
 	}
 	
 	old_nordman = {
+
+		male_names = {
+			Temp
 		}
+	
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	} 
 
 	norse_gaelic = {
-		primary = SCO
+
 		male_names = {
 			Jens Ola Håvard Magne Kjell
 		}
@@ -53,7 +65,6 @@ western_norse = {
 	}
 	
 	anglo_norse = {
-		primary = ENG
 
 		male_names = {
 			Jens Ola Håvard Magne Kjell
@@ -70,67 +81,276 @@ western_norse = {
 	}
 	
 	icelandic = {
+
+		male_names = {
+			Temp
+		}
+	
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
 	}
 	
 	greenlandic = {
+
+		male_names = {
+			Temp
+		}
+	
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
 	}
 	
-	vinlandese = {	
+	vinlandese = {
+
+		male_names = {
+			Temp
+		}
+	
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
 	}
 
 }
 
 eastern_norse = { 
 	graphical culture = westerngfx
-	
+
 		norsk = {
+			primary = NOR
+
+			male_names = {
+				Temp
 			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 			
 		svensk = {
+			male_names = {
+				Temp
 			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 		
 		gutnish = {
+			male_names = {
+				Temp
 			}
+			
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 		
 		rurikian = {
+			male_names = {
+				Temp
 			}
 		
-		novgorodian = { 
+			female_names = {
+				Temp
 			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
+		
+		novgorodian = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
+
 			
 		finnish = {
+			male_names = {
+				Temp
+			}
+		
+			
+			female_names = {
+				Temp
 			}
 			
-		samisk = {
+			dynasty_names = { 
+				"temp" 
 			}
+		}
+			
+		samisk = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 		
 		ostrogothic = {
+			male_names = {
+				Temp
 			}
+			
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 		
 		varangian = {
+			male_names = {
+				Temp
 			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 }
 
 southern_norse = {
 	graphical_culture = westerngfx
 	
+
 		dansk = {
-			}
-			
-		skansk = {
-			}
-			
-		saksisk = {     #split into east and west saxon?
+			male_names = {
+				Temp
 			}
 		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
+			
+		skansk = {
+			male_names = {
+				Temp
+			}
+			
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
+			
+		saksisk = {     #split into east and west saxon?
+			male_names = {
+				Temp
+			}
+			
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
+		
 		svabisk = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
 		}
 		
 		moravian = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
 		}
 		
 		preussisk = {
+			male_names = {
+				Temp
 			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 		
 }
 		
@@ -138,10 +358,43 @@ gotisk = {
 	graphical_culture = westerngfx
 		
 		visigothic = {
+			male_names = {
+				Temp
 			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}
 			
 		italogothic = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
 			}
 			
-		vandal = {
+			dynasty_names = { 
+				"temp" 
 			}
+		}
+			
+		vandal = {
+			male_names = {
+				Temp
+			}
+		
+			female_names = {
+				Temp
+			}
+			
+			dynasty_names = { 
+				"temp" 
+			}
+		}

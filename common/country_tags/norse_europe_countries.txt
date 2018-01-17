@@ -1,2 +1,2 @@
 JOM = "countries/Jomsviking.txt"
-RRM= "countries/Romanrepublic.txt
+RRM = "countries/Romanrepublic.txt
