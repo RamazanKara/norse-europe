@@ -34,6 +34,29 @@ norse_group = {
 		heretic = { OLD_NORSE }	
 	}
 
+	old_norse = {
+	
+		icon = 21
+		color = { 195 195 195 }
+		country = {
+			may_perform_slave_raid = yes
+		    capture_ship_chance = 0.15
+			personal_deity = yes
+			
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			galley_power = 0.3
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		personal_deity = no
+		
+		heretic = { NEW_NORSE }	
+	}
+	
 	crusade_name = PILLAGE
 
 
