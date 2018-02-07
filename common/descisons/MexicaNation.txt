@@ -1,0 +1,78 @@
+country_decisions = {
+
+	mexica_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_mexica_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			NOT = { exists = MAX }
+			NOT = { tag = PAP }
+			NOT = { tag = HLR }
+			culture_group = aztec
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 10
+					adm_tech = 10
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			adm_tech = 20
+			is_free_or_tributary_trigger = yes
+			is_nomad = no
+			is_at_war = no
+			owns_core_province = 174	# Bordeux
+			owns_core_province = 231	# Porto
+			owns_core_province = 227	# Lisboa
+			owns_core_province = 172	# Nantes
+			owns_core_province = 208	# Leon
+			owns_core_province = 207	# Asturias
+		}
+		effect = {
+			change_tag = MAX
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = { NOT = { government_rank = 2 } }
+				set_government_rank = 2
+			}
+			french_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MAX
+			}
+				
+			iberia_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = MAX
+			}	
+			
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 10
+			set_country_flag = formed_mexica_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

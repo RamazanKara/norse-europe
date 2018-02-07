@@ -16,22 +16,7 @@ western_norse = {
 	
 		
 	norn = {
-		primary = 
-
-		male_names = {
-			Jens Ola Håvard Magne Kjell
 		}
-	
-		
-		female_names = {
-			Gerd Hege Sonja Ronja
-		}
-		
-		dynasty_names = { 
-			"av Bergen" "av Sola" "av Sandvika"
-		}
-
-	}
 	
 	old_nordman = {
 		}
@@ -98,7 +83,7 @@ eastern_norse = {
 		novgorodian = { 
 			}
 			
-		finnish = {
+		finsk = {
 			}
 			
 		samisk = {
