@@ -1,0 +1,19 @@
+government = papal_government
+government_rank = 2
+primary_culture = dansk
+religion = new_norse
+technology_group = western
+capital = 12	# Sjælland
+fixed_capital = 12  # Cannot move capital away from this province & no power cost to move to it
+add_army_professionalism = 0.05
+
+1431.2.20 = {
+	monarch = {
+		name = "Ivar IV"
+		culture = dansk
+		birth_date = 1383.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}

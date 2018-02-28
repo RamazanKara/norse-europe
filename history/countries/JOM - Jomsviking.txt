@@ -1,6 +1,6 @@
 government = monastic_order_government
 government_rank = 1
-primary_culture = danish
+primary_culture = dansk
 religion = new_norse
 technology_group = western
 capital = 47	
@@ -13,7 +13,14 @@ add_army_professionalism = 0.1
 		adm = 3
 		dip = 2
 		mil = 6
-		leader = {	name = "Dragir"              	type = general	fire = 4	shock = 3	manuever = 4	siege = 2 }
+		leader = {	
+			name = "Dragir"	
+			type = general 
+			fire = 4 
+			shock = 3 
+			manuever = 4 
+			siege= 2 
+		}
 	}
 }
 

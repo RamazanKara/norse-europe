@@ -1,8 +1,8 @@
 #Sönderjylland-Slesvig, incl. Slesvig, Haderslev and Flensborg
 
-add_core = SHL
-owner = SHL
-controller = SHL
+add_core = JYL
+owner = JYL
+controller = JYL
 culture = dansk
 religion = new_norse
 hre = no

@@ -1,0 +1,16 @@
+government = peasants_republic #Achtundvierziger 
+government_rank = 1
+primary_culture = dansk
+religion = new_norse
+technology_group = western
+capital = 4149 #Kolding
+
+1444.1.1 = {
+	monarch = {
+		name = "Bondeman"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+		regent = yes
+	}
+}

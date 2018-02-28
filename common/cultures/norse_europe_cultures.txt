@@ -16,9 +16,6 @@ western_norse = {
 	
 		
 	norn = {
-<<<<<<< HEAD
-		}
-=======
 
 		male_names = {
 			Temp
@@ -34,7 +31,7 @@ western_norse = {
 		}
 
 	}
->>>>>>> 3c99763ce7e8cba1414e51b2b0154fea2662f74e
+
 	
 	old_nordman = {
 
@@ -137,272 +134,267 @@ western_norse = {
 eastern_norse = { 
 	graphical culture = westerngfx
 
-		norsk = {
-			primary = NOR
+	norsk = {
 
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		male_names = {
+			Temp
 		}
-			
-		svensk = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	
+		female_names = {
+			Temp
 		}
 		
-		gutnish = {
-			male_names = {
-				Temp
-			}
-			
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+		
+	svensk = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
 		}
 		
-		rurikian = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-<<<<<<< HEAD
-		finsk = {
-=======
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	gutnish = {
+		male_names = {
+			Temp
 		}
 		
-		novgorodian = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		female_names = {
+			Temp
 		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	rurikian = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	novgorodian = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
 
-			
-		finnish = {
-			male_names = {
-				Temp
-			}
 		
-			
-			female_names = {
-				Temp
->>>>>>> 3c99763ce7e8cba1414e51b2b0154fea2662f74e
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	finsk = {
+		male_names = {
+			Temp
 		}
-			
-		samisk = {
-			male_names = {
-				Temp
-			}
+	
 		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		female_names = {
+			Temp
 		}
 		
-		ostrogothic = {
-			male_names = {
-				Temp
-			}
-			
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+		
+	samisk = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
 		}
 		
-		varangian = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
 		}
+	}
+	
+	ostrogothic = {
+		male_names = {
+			Temp
+		}
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	varangian = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
 }
 
 southern_norse = {
 	graphical_culture = westerngfx
 	
-
-		dansk = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	dansk = {
+		male_names = {
+			Temp
 		}
-			
-		skansk = {
-			male_names = {
-				Temp
-			}
-			
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
-		}
-			
-		saksisk = {     #split into east and west saxon?
-			male_names = {
-				Temp
-			}
-			
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	
+		female_names = {
+			Temp
 		}
 		
-		svabisk = {
-			male_names = {
-				Temp
-			}
+		dynasty_names = { 
+			"temp" 
+		}
+	}
 		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	skansk = {
+		male_names = {
+			Temp
 		}
 		
-		moravian = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		female_names = {
+			Temp
 		}
 		
-		preussisk = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
 		}
+	}
+		
+	saksisk = {     #split into east and west saxon?
+		male_names = {
+			Temp
+		}
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	svabisk = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	moravian = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+	
+	preussisk = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
 		
 }
 		
 gotisk = {
 	graphical_culture = westerngfx
 		
-		visigothic = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	visigothic = {
+		male_names = {
+			Temp
 		}
-			
-		italogothic = {
-			male_names = {
-				Temp
-			}
-		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+	
+		female_names = {
+			Temp
 		}
-			
-		vandal = {
-			male_names = {
-				Temp
-			}
 		
-			female_names = {
-				Temp
-			}
-			
-			dynasty_names = { 
-				"temp" 
-			}
+		dynasty_names = { 
+			"temp" 
 		}
+	}
+		
+	italogothic = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+		
+	vandal = {
+		male_names = {
+			Temp
+		}
+	
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
+}

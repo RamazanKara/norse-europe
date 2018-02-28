@@ -1,8 +1,8 @@
 #Lolland-Falster
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = FGJ
+owner = FGJ
+controller = FGJ
 culture = dansk
 religion = new_norse
 hre = no

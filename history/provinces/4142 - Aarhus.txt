@@ -1,8 +1,8 @@
 #Eastern Jutland, incl. Aarhus, Djursland and Randers.
 
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = JYL
+controller = JYL
+add_core = JYL
 culture = dansk
 religion = new_norse
 hre = no

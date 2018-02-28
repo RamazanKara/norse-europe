@@ -1,7 +1,6 @@
 JOM = "countries/Jomsviking.txt"
-<<<<<<< HEAD
-RRM= "countries/Romanrepublic.txt"
-MAX= "countries/Mexica.txt"
-=======
-RRM = "countries/Romanrepublic.txt
->>>>>>> 3c99763ce7e8cba1414e51b2b0154fea2662f74e
+RRM = "countries/Romanrepublic.txt"
+MAX = "countries/Mexica.txt"
+FGJ = "countries/Fylkgreyjan.txt"
+FYL = "countries/Fylkiarium.txt"
+JYL = "countries/Jylland.txt"

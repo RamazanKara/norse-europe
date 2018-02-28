@@ -1,8 +1,8 @@
 #Eastern Jutland, incl. Vejle, Skanderborg, Kolding, and Fredericia.
 
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = JYL
+controller = JYL
+add_core = JYL
 culture = dansk
 religion = new_norse
 hre = no
