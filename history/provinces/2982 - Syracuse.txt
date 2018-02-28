@@ -3,7 +3,7 @@
 owner = SIC
 controller = SIC
 culture = sicilian 
-religion = new_norse 
+religion = old_norse 
 hre = no 
 base_tax = 6
 base_production = 6

@@ -3,7 +3,7 @@
 owner = SAR
 controller = SAR
 culture = sardinian 
-religion = new_norse 
+religion = old_norse 
 hre = no 
 base_tax = 4
 base_production = 4

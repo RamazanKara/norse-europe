@@ -3,7 +3,7 @@
 owner = VEN
 controller = VEN
 culture = greek
-religion = orthodox
+religion = old_norse
 capital = "Heraklion"
 trade_goods = fish
 hre = no

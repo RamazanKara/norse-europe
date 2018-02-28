@@ -1,0 +1,22 @@
+government = ottoman_government
+primary_culture = aztec
+add_accepted_culture = gothic
+add_accepted_culture = castillian
+religion = nahuatl
+technology_group = western
+historical_rival = FIR
+historical_rival = GOT
+
+capital = 174 # Bordeaux
+national_focus = MIL
+add_army_professionalism = 0.1
+
+1444.1.1 = {
+	monarch = {
+		name = "Montezuma"
+		ADM = 4
+		DIP = 5
+		MIL = 6
+		regent = no
+	}
+}
