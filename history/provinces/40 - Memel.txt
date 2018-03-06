@@ -1,7 +1,7 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
+owner = PRL
+controller = PRL
 culture = preussisk
 religion = new_norse
 capital = "Memel"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-add_core = TEU
+add_core = PRL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

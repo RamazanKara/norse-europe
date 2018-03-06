@@ -1,8 +1,8 @@
 #Halland, contains Halmstad, Varberg.
 
-owner = DAN
-controller = DAN
-add_core = DAN
+owner = SKO
+controller = SKO
+add_core = SKO
 culture = skansk
 religion = new_norse
 hre = no

@@ -1,8 +1,8 @@
 #Eastern Skåne - More or less Kristianstad Län. Includes Göinge, Gladsax Len, Listerlandet, and others.
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = SKO
+owner = SKO
+controller = SKO
 culture = skansk
 religion = new_norse
 hre = no

@@ -4,5 +4,7 @@ MAX = "countries/Mexica.txt"
 FGJ = "countries/Fylkgreyjan.txt"
 FYL = "countries/Fylkiarium.txt"
 JYL = "countries/Jylland.txt"
-FIR =  "countries/Firenation.txt."
+FIR = "countries/Firenation.txt"
+PRL = "countries/Prussland.txt"
+SKO = "countries/Skanur.txt"
 

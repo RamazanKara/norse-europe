@@ -1,7 +1,7 @@
 #41 - Königsberg
 
-owner = TEU
-controller = TEU
+owner = PRL
+controller = PRL
 capital = "Königsberg"
 culture = preussisk
 religion = new_norse

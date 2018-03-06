@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = preussisk
+religion = new_norse
+technology_group = western
+capital = 41	# Königsberg
+
+1444.1.1 = {
+	monarch = {
+		name = "Marie Ellen"
+		dynasty = "av Skogen"
+		female = yes
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+}

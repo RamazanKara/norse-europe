@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = skansk
+religion = new_norse
+technology_group = western
+capital = 6	# Lund
+
+1444.1.1 = {
+	monarch = {
+		name = "Bjørn"
+		dynasty = "av Skanur"
+		female = yes
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}

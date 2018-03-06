@@ -1,8 +1,8 @@
 #Skåne
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = SKO
+owner = SKO
+controller = SKO
 culture = skansk
 religion = new_norse
 hre = no
