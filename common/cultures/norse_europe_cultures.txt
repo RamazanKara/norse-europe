@@ -13,7 +13,21 @@ western_norse = {
 	
 	male_names = { Ola Nordmann }
 
+	bufferkulta = {
+
+		male_names = {
+			Temp
+		}
 	
+		
+		female_names = {
+			Temp
+		}
+		
+		dynasty_names = { 
+			"temp" 
+		}
+	}
 		
 	norn = {
 
@@ -81,21 +95,7 @@ western_norse = {
 		}
 	}
 	
-	icelandic = {
-
-		male_names = {
-			Temp
-		}
 	
-		
-		female_names = {
-			Temp
-		}
-		
-		dynasty_names = { 
-			"temp" 
-		}
-	}
 	
 	greenlandic = {
 
@@ -132,10 +132,9 @@ western_norse = {
 }
 
 eastern_norse = { 
-	graphical culture = westerngfx
+	graphical_culture = westerngfx
 
 	norsk = {
-
 		male_names = {
 			Temp
 		}

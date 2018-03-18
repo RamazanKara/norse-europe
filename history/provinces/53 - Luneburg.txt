@@ -1,8 +1,8 @@
 #53 - Lüneburg
 
-owner = LUN
-controller = LUN
-add_core = LUN
+owner = VER
+controller = VER
+add_core = VER
 culture = dansk
 religion = new_norse
 capital = "Lüneburg"

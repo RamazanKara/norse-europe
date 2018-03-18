@@ -1,7 +1,7 @@
 #1874 - Bremen
 
-owner = BRE
-controller = BRE
+owner = OLD
+controller = OLD
 culture = dansk
 religion = new_norse
 capital = "Bremen"

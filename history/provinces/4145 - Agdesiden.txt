@@ -1,8 +1,8 @@
 #Agdesiden (incl Lister Len, Mandals Len, Nedenes len and Råbyggelaget len)
 
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = SKO
+controller = SKO
+add_core = SKO
 culture = norsk
 religion = new_norse
 hre = no

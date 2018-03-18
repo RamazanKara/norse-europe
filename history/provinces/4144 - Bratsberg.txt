@@ -1,8 +1,8 @@
 #Bratsberg Len / Amt
 
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = SKO
+controller = SKO
+add_core = SKO
 culture = norsk
 religion = new_norse
 hre = no

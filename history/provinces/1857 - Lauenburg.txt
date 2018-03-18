@@ -1,8 +1,8 @@
 #1857 - Lauenburg
 
-owner = LAU
-controller = LAU
-add_core = LAU
+owner = VER
+controller = VER
+add_core = VER
 culture = dansk
 religion = new_norse
 capital = "Lauenburg"
