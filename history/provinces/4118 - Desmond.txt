@@ -2,7 +2,7 @@
 
 owner = DMS
 controller = DMS
-culture = norse_gaelic
+culture = irish
 religion = new_norse
 hre = no
 base_tax = 4
