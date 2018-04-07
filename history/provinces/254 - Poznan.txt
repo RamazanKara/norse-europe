@@ -1,7 +1,7 @@
 #254 - Poznan
 
-owner = POL
-controller = POL
+owner = GRP
+controller = GRP
 capital = "Poznan"
 culture = polish
 religion = new_norse
@@ -12,7 +12,7 @@ base_production = 6
 base_manpower = 5
 is_city = yes
 estate = estate_burghers
-add_core = POL
+add_core = GRP
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI

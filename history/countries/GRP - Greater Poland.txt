@@ -1,0 +1,22 @@
+government = feudal_monarchy
+primary_culture = polish
+religion = new_norse
+technology_group = western
+historical_friend = LIT
+capital = 254 
+
+national_focus = ADM
+
+1444.11.11 = {
+	monarch = {
+		name = "Kazimierz IV"
+		dynasty = Jagiellon
+		birth_date = 1430.11.30
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = incorruptible_personality
+}

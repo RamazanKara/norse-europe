@@ -7,4 +7,4 @@ JYL = "countries/Jylland.txt"
 FIR = "countries/Firenation.txt"
 PRL = "countries/Prussland.txt"
 SKO = "countries/Skanur.txt"
-
+GRP = "countries/GreaterPoland.txt"

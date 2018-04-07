@@ -2,9 +2,19 @@
  plazeholder:0 "Plazeholder"
  western_norse:0 "Western norse"
  anglo_norse:0 "Anglo-Norse"
+ southern_norse:0 "De kontinentale"
+
  new_norse:0 "Norse"
  JOM:0 "Jomsvikingar"
+ JOM_ADJ:0 "Joms"
  FGJ:0 "Fylkgreyjan"
+ FGJ_ADJ:0 "Fylkgreyjan"
  JYL:0 "Jylland"
- 
- southern_norse:0 "De kontinentale"
+ JYL_ADJ:0 "Jylland"
+ GRP:0 "Greater Poland"
+ GRP_ADJ:0 "Polish"
+ SKO:0 "Skåne"
+ SKO_ADJ:0 "Skanian"
+ PRL:0 "Pruthenia"
+ PRL_ADJ:0 "Pruthenian"
+

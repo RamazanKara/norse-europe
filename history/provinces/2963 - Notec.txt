@@ -1,7 +1,7 @@
 #254 - Notec
 
-owner = POL
-controller = POL
+owner = GRP
+controller = GRP
 capital = "Bydgoszcz"
 culture = polish
 religion = new_norse
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = POL
+add_core = GRP
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

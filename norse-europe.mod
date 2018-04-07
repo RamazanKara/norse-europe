@@ -1,7 +1,7 @@
 name = "Norse Europe"
 path = "mod/norse-europe"
 user_dir = "norse-europe"
-supported_version="1.24.*.*"
+supported_version="1.25.*.*"
 tags={
 	"Events"
 	"Gameplay"

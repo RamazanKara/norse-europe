@@ -1,13 +1,13 @@
 #1763 - Niederlausitz
 
-owner = BOH
-controller = BOH
-add_core = BOH
+owner = SIL
+controller = SIL
+add_core = SIL
 capital = "Cottbus"
 culture = saksisk
 religion = new_norse
 trade_goods = livestock
-hre = yes
+hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 1

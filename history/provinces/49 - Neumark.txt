@@ -1,11 +1,11 @@
 #49 - Neumark
 
-owner = BRA
-controller = BRA
-#add_core = BRA
+owner = GRP
+controller = GRP
+#add_core = GRP
 culture = saksisk
 religion = new_norse
-hre = yes
+hre = no
 base_tax = 3 
 base_production = 3
 trade_goods = livestock
@@ -18,7 +18,7 @@ discovered_by = muslim
 discovered_by = ottoman
 add_local_autonomy = 50 #Administrative misshandling, robber barons, privileged cities.
 
-1402.1.1 = { owner = TEU controller = TEU add_core = TEU }
+1402.1.1 = { owner = GRP controller = GRP add_core = GRP }
 1453.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = TEU }
 1536.1.1 = { religion = protestant }
 1650.1.1 = { culture = preussisk }
