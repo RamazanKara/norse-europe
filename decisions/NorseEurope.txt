@@ -1,0 +1,124 @@
+country_decisions = {
+
+	fylkiarium_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { has_country_flag = formed_fylkiarium_flag }
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+
+			NOT = { tag = FYL }
+
+			OR = {
+				NOT = { exists = FYL }
+				ai = no
+			}
+			OR = {
+				culture_group = southern_norse
+			}
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					num_of_cities = 5
+				}
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 12
+				province_id = 4142
+				province_id = 6
+				province_id = 47
+				province_id = 44
+				province_id = 50
+				province_id = 61
+				province_id = 86
+				province_id = 63
+				province_id = 1858
+				province_id = 43
+				province_id = 41
+				province_id = 2995
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			NOT = { exists = FYL }
+			#total_development = 200
+			is_at_war = no
+			is_free_or_tributary_trigger = yes
+			owns_core_province = 12
+			owns_core_province = 4142
+			OR = {
+				AND = {
+					owns_core_province = 6
+					owns_core_province = 47
+					owns_core_province = 44
+				}
+				AND = {
+					owns_core_province = 50
+					owns_core_province = 61
+					owns_core_province = 86
+					owns_core_province = 63
+				}
+				AND = {
+					owns_core_province = 1858
+					owns_core_province = 43
+					owns_core_province = 41
+					owns_core_province = 2995
+				}
+			}	
+		}
+		effect = {
+			change_tag = FYL
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			set_government_rank = 3
+			
+			add_prestige = 25
+
+			define_ruler = {
+				name = "Aegon"
+				dynasty = "Dragon Cunt Destoyer"
+				fixed = yes
+				adm = 6
+				dip = 6
+				mil = 5
+				culture = dansk
+				female = no
+				age = 20
+				claim = 100
+			}
+						
+			if = {
+				limit = { NOT = { government = celestial_empire } }
+				change_government = prussian_monarchy
+			}
+			if = {
+				limit = { has_custom_ideas = no }
+				country_event = { id = ideagroups.1 } #Swap Ideas
+			}
+			
+			set_country_flag = formed_fylkiarium_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+
+}

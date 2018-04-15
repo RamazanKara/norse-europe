@@ -1,0 +1,17 @@
+government = merchant_republic 
+government_rank = 1
+mercantilism = 25
+primary_culture = dansk
+religion = new_norse
+technology_group = western
+capital = 1981 
+
+1444.1.1 = {
+	monarch = {
+		name = "Harald Sjømann"
+		ADM = 3
+		DIP = 5
+		MIL = 0
+		regent = yes
+	}
+}

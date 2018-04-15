@@ -1,19 +1,19 @@
 
 graphical_culture = westerngfx
 
-color = { 245 200 100 }
+color = { 20  70  200 }
 
-historical_score = 5000
+historical_score = 2000
 
 historical_idea_groups = {
-	religious_ideas
-	defensive_ideas
-	offensive_ideas
-	trade_ideas
-	innovativeness_ideas
+	maritime_ideas
+	administrative_ideas
+	aristocracy_ideas
+	expansion_ideas
+	naval_ideas 
+	trade_ideas 
+	quality_ideas
 	economic_ideas
-	spy_ideas
-	diplomatic_ideas
 }
 
 historical_units = {
@@ -21,12 +21,12 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 	dutch_maurician
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
 	prussian_frederickian
 	prussian_uhlan
-	prussian_drill
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square

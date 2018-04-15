@@ -1,0 +1,12 @@
+fylkir_sjelland = {
+	potential = {
+		tag = FYL
+	}
+
+	trigger = {	
+		owns = 12
+	}
+
+	monthly_militarized_society = 0.5
+	#icon = 9
+}

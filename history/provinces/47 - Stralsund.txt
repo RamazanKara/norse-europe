@@ -5,11 +5,11 @@ controller = JOM
 add_core = JOM
 culture = dansk
 religion = new_norse
-hre = yes
+hre = no
 base_tax = 3 
 base_production = 3
 trade_goods = fish
-base_manpower = 2
+base_manpower = 4
 capital = "Stralsund"
 is_city = yes
 

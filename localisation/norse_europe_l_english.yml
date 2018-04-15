@@ -5,6 +5,7 @@
  southern_norse:0 "De kontinentale"
 
  new_norse:0 "Norse"
+
  JOM:0 "Jomsvikingar"
  JOM_ADJ:0 "Joms"
  FGJ:0 "Fylkgreyjan"
@@ -17,4 +18,8 @@
  SKO_ADJ:0 "Skanian"
  PRL:0 "Pruthenia"
  PRL_ADJ:0 "Pruthenian"
+ BRN:0 "Bornland"
+ BRN_ADJ:0 "Bornish"
+ BRN:0 "Fylkiarum"
+ BRN_ADJ:0 "Fylki"
 
