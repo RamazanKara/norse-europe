@@ -45,6 +45,7 @@ FYL_ideas = {
 		global_manpower_modifier = 0.25
 		land_maintenance_modifier = -0.15
 		land_forcelimit_modifier = 0.33
+		free_leader_pool = 1
 	}
 	equality_for_all = {
 		female_advisor_chance = 0.5
@@ -52,8 +53,22 @@ FYL_ideas = {
 		num_accepted_cultures = 2
 		global_unrest = -1
 	}
-	holy_father = {
+	grand_empire_needs_more_clay = {
 		ae_impact = -0.40
+	}
+
+	forts_must_fall = {
+		artillery_bonus_vs_fort = 2
+		siege_ability = 0.20
+	}
+
+	stability_for_all = {
+		stability_cost_modifier = -0.10
+		advisor_cost = -0.15
+	}
+
+	effective_beurocracy = {
+		administrative_efficiency = 0.15
 	}
 }
 
