@@ -68,19 +68,18 @@ country_decisions = {
 					owns_core_province = 6
 					owns_core_province = 47
 					owns_core_province = 44
-				}
-				AND = {
+			
 					owns_core_province = 50
 					owns_core_province = 61
 					owns_core_province = 86
 					owns_core_province = 63
-				}
-				AND = {
+				
 					owns_core_province = 1858
 					owns_core_province = 43
 					owns_core_province = 41
 					owns_core_province = 2995
 				}
+				total_development = 1000
 			}	
 		}
 		effect = {

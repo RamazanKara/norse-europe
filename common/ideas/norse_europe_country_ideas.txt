@@ -55,6 +55,9 @@ FYL_ideas = {
 	}
 	grand_empire_needs_more_clay = {
 		ae_impact = -0.40
+		warscore_cost_vs_other_religion = -0.25
+		province_warscore_cost -0.20
+		core_creation = -0.15
 	}
 
 	forts_must_fall = {
