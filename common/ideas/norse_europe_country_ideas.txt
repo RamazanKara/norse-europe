@@ -8,7 +8,7 @@
 
 FYL_ideas = {
 	start = {
-		administrative_efficiency = 0.15
+		core_creation = -0.25
 		discipline = 0.10
 	}
 
@@ -54,10 +54,9 @@ FYL_ideas = {
 		global_unrest = -1
 	}
 	grand_empire_needs_more_clay = {
-		ae_impact = -0.40
+		ae_impact = -0.20
 		warscore_cost_vs_other_religion = -0.25
 		province_warscore_cost -0.20
-		core_creation = -0.15
 	}
 
 	forts_must_fall = {
@@ -72,6 +71,12 @@ FYL_ideas = {
 
 	effective_beurocracy = {
 		administrative_efficiency = 0.15
+		diplomatic_upkeep = 4
+	}
+
+	a_large_empire = {
+		merchants = 4
+		envoy_travel_time = -0.3
 	}
 }
 
