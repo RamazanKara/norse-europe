@@ -1,0 +1,35 @@
+namespace = norse_europe
+
+country_event = { 
+	id = norse_europe.1
+	title = norse_europe.1.t
+	desc = norse_europe.1.d
+	picture = DIPLOMACY_eventPicture
+	
+	fire_only_once = yes
+ 
+	is_	is_triggered_only = yes
+
+	trigger = {
+		tag = FYL
+	}
+
+	option = {
+		name = norse_europe.1.a  
+		
+		add_militarised_society = 100
+		add_legitimacy = 50
+		add_mil_power = 100
+
+		add_ruler_modifier = {
+			name = pru_enlightenment_reforms
+		}
+
+		add_country_modifier = {
+			name = the_absolutism
+			duration = -1
+		}
+	}
+
+	
+}

@@ -20,6 +20,10 @@
  PRL_ADJ:0 "Pruthenian"
  BRN:0 "Bornland"
  BRN_ADJ:0 "Bornish"
- BRN:0 "Fylkiarum"
- BRN_ADJ:0 "Fylki"
+ FYL:0 "Fylkiarum"
+ FYL_ADJ:0 "Fylki"
+
+ norse_europe.1.t:0 "Resurection of Fylkiarium"
+ norse_europe.1.d:0 "Resurection of Fylkiarium bla bla bla"
+ norse_europe.1.a:0 "Fuck yeah. This awsome"
 
